@@ -1,0 +1,1501 @@
+Run,Dataset,Label_Ratio,GMean,Labeling Strategy
+0,INSECTS incremental_imbalanced,0.05,0.255837528,Uniform
+0,INSECTS incremental_imbalanced,0.05,0.242934383,Non_Uniform
+0,INSECTS incremental_imbalanced,0.1,0.255011261,Uniform
+0,INSECTS incremental_imbalanced,0.1,0.251863716,Non_Uniform
+0,INSECTS incremental_imbalanced,0.2,0.205993271,Uniform
+0,INSECTS incremental_imbalanced,0.2,0.285039866,Non_Uniform
+0,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+0,INSECTS incremental_imbalanced,0.5,0.359279437,Non_Uniform
+0,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+0,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+0,INSECTS incremental-abrupt_imbalanced,0.05,0.258644941,Uniform
+0,INSECTS incremental-abrupt_imbalanced,0.05,0.236157961,Non_Uniform
+0,INSECTS incremental-abrupt_imbalanced,0.1,0.261829691,Uniform
+0,INSECTS incremental-abrupt_imbalanced,0.1,0.257468998,Non_Uniform
+0,INSECTS incremental-abrupt_imbalanced,0.2,0.253076247,Uniform
+0,INSECTS incremental-abrupt_imbalanced,0.2,0.283083901,Non_Uniform
+0,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+0,INSECTS incremental-abrupt_imbalanced,0.5,0.355563851,Non_Uniform
+0,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+0,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+0,Keystroke,0.05,0.469252723,Uniform
+0,Keystroke,0.05,0.59327271,Non_Uniform
+0,Keystroke,0.1,0.677857726,Uniform
+0,Keystroke,0.1,0.637024126,Non_Uniform
+0,Keystroke,0.2,0.74264432,Uniform
+0,Keystroke,0.2,0.778310969,Non_Uniform
+0,Keystroke,0.5,0.684794435,Uniform
+0,Keystroke,0.5,0.921778888,Non_Uniform
+0,Keystroke,1,0.940603409,Uniform
+0,Keystroke,1,0.940603409,Non_Uniform
+0,NOAA,0.05,0.54789658,Uniform
+0,NOAA,0.05,0.528254552,Non_Uniform
+0,NOAA,0.1,0.566683737,Uniform
+0,NOAA,0.1,0.577678061,Non_Uniform
+0,NOAA,0.2,0.576154674,Uniform
+0,NOAA,0.2,0.624490473,Non_Uniform
+0,NOAA,0.5,0.65697857,Uniform
+0,NOAA,0.5,0.670338075,Non_Uniform
+0,NOAA,1,0.673206388,Uniform
+0,NOAA,1,0.673206388,Non_Uniform
+0,Ozone,0.05,0.398216804,Uniform
+0,Ozone,0.05,0.421495696,Non_Uniform
+0,Ozone,0.1,0.499601971,Uniform
+0,Ozone,0.1,0.394176624,Non_Uniform
+0,Ozone,0.2,0.530672797,Uniform
+0,Ozone,0.2,0.440245242,Non_Uniform
+0,Ozone,0.5,0.485630903,Uniform
+0,Ozone,0.5,0.51948744,Non_Uniform
+0,Ozone,1,0.474968935,Uniform
+0,Ozone,1,0.474968935,Non_Uniform
+1,INSECTS incremental_imbalanced,0.05,0.244001277,Uniform
+1,INSECTS incremental_imbalanced,0.05,0.258194512,Non_Uniform
+1,INSECTS incremental_imbalanced,0.1,0.250226153,Uniform
+1,INSECTS incremental_imbalanced,0.1,0.251797873,Non_Uniform
+1,INSECTS incremental_imbalanced,0.2,0.201822281,Uniform
+1,INSECTS incremental_imbalanced,0.2,0.25518234,Non_Uniform
+1,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+1,INSECTS incremental_imbalanced,0.5,0.351627738,Non_Uniform
+1,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+1,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+1,INSECTS incremental-abrupt_imbalanced,0.05,0.246213318,Uniform
+1,INSECTS incremental-abrupt_imbalanced,0.05,0.252310474,Non_Uniform
+1,INSECTS incremental-abrupt_imbalanced,0.1,0.251056904,Uniform
+1,INSECTS incremental-abrupt_imbalanced,0.1,0.257100931,Non_Uniform
+1,INSECTS incremental-abrupt_imbalanced,0.2,0.253076247,Uniform
+1,INSECTS incremental-abrupt_imbalanced,0.2,0.274796293,Non_Uniform
+1,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+1,INSECTS incremental-abrupt_imbalanced,0.5,0.345941502,Non_Uniform
+1,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+1,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+1,Keystroke,0.05,0.597571456,Uniform
+1,Keystroke,0.05,0.612248899,Non_Uniform
+1,Keystroke,0.1,0.631897724,Uniform
+1,Keystroke,0.1,0.701325352,Non_Uniform
+1,Keystroke,0.2,0.759429881,Uniform
+1,Keystroke,0.2,0.766948155,Non_Uniform
+1,Keystroke,0.5,0.684794435,Uniform
+1,Keystroke,0.5,0.90841612,Non_Uniform
+1,Keystroke,1,0.940603409,Uniform
+1,Keystroke,1,0.940603409,Non_Uniform
+1,NOAA,0.05,0.555652906,Uniform
+1,NOAA,0.05,0.547795416,Non_Uniform
+1,NOAA,0.1,0.56867797,Uniform
+1,NOAA,0.1,0.589658453,Non_Uniform
+1,NOAA,0.2,0.576154674,Uniform
+1,NOAA,0.2,0.627770169,Non_Uniform
+1,NOAA,0.5,0.664807861,Uniform
+1,NOAA,0.5,0.660367719,Non_Uniform
+1,NOAA,1,0.673206388,Uniform
+1,NOAA,1,0.673206388,Non_Uniform
+1,Ozone,0.05,0.458679414,Uniform
+1,Ozone,0.05,0.380077347,Non_Uniform
+1,Ozone,0.1,0.450062062,Uniform
+1,Ozone,0.1,0.492187061,Non_Uniform
+1,Ozone,0.2,0.530672797,Uniform
+1,Ozone,0.2,0.434882861,Non_Uniform
+1,Ozone,0.5,0.521537607,Uniform
+1,Ozone,0.5,0.547587842,Non_Uniform
+1,Ozone,1,0.474968935,Uniform
+1,Ozone,1,0.474968935,Non_Uniform
+2,INSECTS incremental_imbalanced,0.05,0.255837528,Uniform
+2,INSECTS incremental_imbalanced,0.05,0.250711824,Non_Uniform
+2,INSECTS incremental_imbalanced,0.1,0.250226153,Uniform
+2,INSECTS incremental_imbalanced,0.1,0.262608305,Non_Uniform
+2,INSECTS incremental_imbalanced,0.2,0.205993271,Uniform
+2,INSECTS incremental_imbalanced,0.2,0.256454695,Non_Uniform
+2,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+2,INSECTS incremental_imbalanced,0.5,0.357925847,Non_Uniform
+2,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+2,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+2,INSECTS incremental-abrupt_imbalanced,0.05,0.251629667,Uniform
+2,INSECTS incremental-abrupt_imbalanced,0.05,0.259696735,Non_Uniform
+2,INSECTS incremental-abrupt_imbalanced,0.1,0.246661802,Uniform
+2,INSECTS incremental-abrupt_imbalanced,0.1,0.254013209,Non_Uniform
+2,INSECTS incremental-abrupt_imbalanced,0.2,0.253076247,Uniform
+2,INSECTS incremental-abrupt_imbalanced,0.2,0.270482332,Non_Uniform
+2,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+2,INSECTS incremental-abrupt_imbalanced,0.5,0.346305037,Non_Uniform
+2,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+2,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+2,Keystroke,0.05,0.618715253,Uniform
+2,Keystroke,0.05,0.56019863,Non_Uniform
+2,Keystroke,0.1,0.692701923,Uniform
+2,Keystroke,0.1,0.662288272,Non_Uniform
+2,Keystroke,0.2,0.808101158,Uniform
+2,Keystroke,0.2,0.795295227,Non_Uniform
+2,Keystroke,0.5,0.684794435,Uniform
+2,Keystroke,0.5,0.908294157,Non_Uniform
+2,Keystroke,1,0.940603409,Uniform
+2,Keystroke,1,0.940603409,Non_Uniform
+2,NOAA,0.05,0.527218925,Uniform
+2,NOAA,0.05,0.546718739,Non_Uniform
+2,NOAA,0.1,0.564682885,Uniform
+2,NOAA,0.1,0.57007606,Non_Uniform
+2,NOAA,0.2,0.564626106,Uniform
+2,NOAA,0.2,0.628026454,Non_Uniform
+2,NOAA,0.5,0.65697857,Uniform
+2,NOAA,0.5,0.668470284,Non_Uniform
+2,NOAA,1,0.673206388,Uniform
+2,NOAA,1,0.673206388,Non_Uniform
+2,Ozone,0.05,0.328552705,Uniform
+2,Ozone,0.05,0.436913905,Non_Uniform
+2,Ozone,0.1,0.450062062,Uniform
+2,Ozone,0.1,0.538759114,Non_Uniform
+2,Ozone,0.2,0.483722719,Uniform
+2,Ozone,0.2,0.53285796,Non_Uniform
+2,Ozone,0.5,0.485630903,Uniform
+2,Ozone,0.5,0.452147303,Non_Uniform
+2,Ozone,1,0.474968935,Uniform
+2,Ozone,1,0.474968935,Non_Uniform
+3,INSECTS incremental_imbalanced,0.05,0.256502765,Uniform
+3,INSECTS incremental_imbalanced,0.05,0.263803432,Non_Uniform
+3,INSECTS incremental_imbalanced,0.1,0.250226153,Uniform
+3,INSECTS incremental_imbalanced,0.1,0.250172738,Non_Uniform
+3,INSECTS incremental_imbalanced,0.2,0.205993271,Uniform
+3,INSECTS incremental_imbalanced,0.2,0.271816336,Non_Uniform
+3,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+3,INSECTS incremental_imbalanced,0.5,0.341307186,Non_Uniform
+3,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+3,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+3,INSECTS incremental-abrupt_imbalanced,0.05,0.256395692,Uniform
+3,INSECTS incremental-abrupt_imbalanced,0.05,0.238655601,Non_Uniform
+3,INSECTS incremental-abrupt_imbalanced,0.1,0.236515795,Uniform
+3,INSECTS incremental-abrupt_imbalanced,0.1,0.259009632,Non_Uniform
+3,INSECTS incremental-abrupt_imbalanced,0.2,0.253076247,Uniform
+3,INSECTS incremental-abrupt_imbalanced,0.2,0.269915542,Non_Uniform
+3,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+3,INSECTS incremental-abrupt_imbalanced,0.5,0.343015586,Non_Uniform
+3,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+3,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+3,Keystroke,0.05,0.564406712,Uniform
+3,Keystroke,0.05,0.588161238,Non_Uniform
+3,Keystroke,0.1,0.660722537,Uniform
+3,Keystroke,0.1,0.653080835,Non_Uniform
+3,Keystroke,0.2,0.759429881,Uniform
+3,Keystroke,0.2,0.812379834,Non_Uniform
+3,Keystroke,0.5,0.684794435,Uniform
+3,Keystroke,0.5,0.934939509,Non_Uniform
+3,Keystroke,1,0.940603409,Uniform
+3,Keystroke,1,0.940603409,Non_Uniform
+3,NOAA,0.05,0.527218925,Uniform
+3,NOAA,0.05,0.52303643,Non_Uniform
+3,NOAA,0.1,0.568087838,Uniform
+3,NOAA,0.1,0.572187814,Non_Uniform
+3,NOAA,0.2,0.576154674,Uniform
+3,NOAA,0.2,0.61928563,Non_Uniform
+3,NOAA,0.5,0.65697857,Uniform
+3,NOAA,0.5,0.66363688,Non_Uniform
+3,NOAA,1,0.673206388,Uniform
+3,NOAA,1,0.673206388,Non_Uniform
+3,Ozone,0.05,0.386896732,Uniform
+3,Ozone,0.05,0.482077607,Non_Uniform
+3,Ozone,0.1,0.450062062,Uniform
+3,Ozone,0.1,0.49049782,Non_Uniform
+3,Ozone,0.2,0.530672797,Uniform
+3,Ozone,0.2,0.487955694,Non_Uniform
+3,Ozone,0.5,0.521537607,Uniform
+3,Ozone,0.5,0.524881541,Non_Uniform
+3,Ozone,1,0.474968935,Uniform
+3,Ozone,1,0.474968935,Non_Uniform
+4,INSECTS incremental_imbalanced,0.05,0.257925235,Uniform
+4,INSECTS incremental_imbalanced,0.05,0.241839066,Non_Uniform
+4,INSECTS incremental_imbalanced,0.1,0.248115518,Uniform
+4,INSECTS incremental_imbalanced,0.1,0.262404183,Non_Uniform
+4,INSECTS incremental_imbalanced,0.2,0.205993271,Uniform
+4,INSECTS incremental_imbalanced,0.2,0.268948173,Non_Uniform
+4,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+4,INSECTS incremental_imbalanced,0.5,0.35389686,Non_Uniform
+4,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+4,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+4,INSECTS incremental-abrupt_imbalanced,0.05,0.253621112,Uniform
+4,INSECTS incremental-abrupt_imbalanced,0.05,0.251877583,Non_Uniform
+4,INSECTS incremental-abrupt_imbalanced,0.1,0.255928533,Uniform
+4,INSECTS incremental-abrupt_imbalanced,0.1,0.261035944,Non_Uniform
+4,INSECTS incremental-abrupt_imbalanced,0.2,0.253076247,Uniform
+4,INSECTS incremental-abrupt_imbalanced,0.2,0.269209632,Non_Uniform
+4,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+4,INSECTS incremental-abrupt_imbalanced,0.5,0.343706388,Non_Uniform
+4,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+4,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+4,Keystroke,0.05,0.497770431,Uniform
+4,Keystroke,0.05,0.520282052,Non_Uniform
+4,Keystroke,0.1,0.703439806,Uniform
+4,Keystroke,0.1,0.681957416,Non_Uniform
+4,Keystroke,0.2,0.808101158,Uniform
+4,Keystroke,0.2,0.778794242,Non_Uniform
+4,Keystroke,0.5,0.684794435,Uniform
+4,Keystroke,0.5,0.924107119,Non_Uniform
+4,Keystroke,1,0.940603409,Uniform
+4,Keystroke,1,0.940603409,Non_Uniform
+4,NOAA,0.05,0.527224883,Uniform
+4,NOAA,0.05,0.549819551,Non_Uniform
+4,NOAA,0.1,0.555774044,Uniform
+4,NOAA,0.1,0.578400211,Non_Uniform
+4,NOAA,0.2,0.564626106,Uniform
+4,NOAA,0.2,0.608368351,Non_Uniform
+4,NOAA,0.5,0.65697857,Uniform
+4,NOAA,0.5,0.657823484,Non_Uniform
+4,NOAA,1,0.673206388,Uniform
+4,NOAA,1,0.673206388,Non_Uniform
+4,Ozone,0.05,0.459718001,Uniform
+4,Ozone,0.05,0.304615978,Non_Uniform
+4,Ozone,0.1,0.500547761,Uniform
+4,Ozone,0.1,0.493646394,Non_Uniform
+4,Ozone,0.2,0.526925722,Uniform
+4,Ozone,0.2,0.524766068,Non_Uniform
+4,Ozone,0.5,0.485630903,Uniform
+4,Ozone,0.5,0.47167336,Non_Uniform
+4,Ozone,1,0.474968935,Uniform
+4,Ozone,1,0.474968935,Non_Uniform
+5,INSECTS incremental_imbalanced,0.05,0.241775004,Uniform
+5,INSECTS incremental_imbalanced,0.05,0.252895613,Non_Uniform
+5,INSECTS incremental_imbalanced,0.1,0.242432147,Uniform
+5,INSECTS incremental_imbalanced,0.1,0.251342382,Non_Uniform
+5,INSECTS incremental_imbalanced,0.2,0.198063957,Uniform
+5,INSECTS incremental_imbalanced,0.2,0.264529632,Non_Uniform
+5,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+5,INSECTS incremental_imbalanced,0.5,0.346650301,Non_Uniform
+5,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+5,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+5,INSECTS incremental-abrupt_imbalanced,0.05,0.263494076,Uniform
+5,INSECTS incremental-abrupt_imbalanced,0.05,0.256837837,Non_Uniform
+5,INSECTS incremental-abrupt_imbalanced,0.1,0.246993937,Uniform
+5,INSECTS incremental-abrupt_imbalanced,0.1,0.254176069,Non_Uniform
+5,INSECTS incremental-abrupt_imbalanced,0.2,0.253076247,Uniform
+5,INSECTS incremental-abrupt_imbalanced,0.2,0.270830974,Non_Uniform
+5,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+5,INSECTS incremental-abrupt_imbalanced,0.5,0.344813338,Non_Uniform
+5,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+5,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+5,Keystroke,0.05,0.60143995,Uniform
+5,Keystroke,0.05,0.589997541,Non_Uniform
+5,Keystroke,0.1,0.718405722,Uniform
+5,Keystroke,0.1,0.620890527,Non_Uniform
+5,Keystroke,0.2,0.74264432,Uniform
+5,Keystroke,0.2,0.772366336,Non_Uniform
+5,Keystroke,0.5,0.684794435,Uniform
+5,Keystroke,0.5,0.913705754,Non_Uniform
+5,Keystroke,1,0.940603409,Uniform
+5,Keystroke,1,0.940603409,Non_Uniform
+5,NOAA,0.05,0.527224883,Uniform
+5,NOAA,0.05,0.544525938,Non_Uniform
+5,NOAA,0.1,0.568087838,Uniform
+5,NOAA,0.1,0.574193143,Non_Uniform
+5,NOAA,0.2,0.576154674,Uniform
+5,NOAA,0.2,0.622771661,Non_Uniform
+5,NOAA,0.5,0.65697857,Uniform
+5,NOAA,0.5,0.667582244,Non_Uniform
+5,NOAA,1,0.673206388,Uniform
+5,NOAA,1,0.673206388,Non_Uniform
+5,Ozone,0.05,0.336739118,Uniform
+5,Ozone,0.05,0.353236511,Non_Uniform
+5,Ozone,0.1,0.529920032,Uniform
+5,Ozone,0.1,0.430155468,Non_Uniform
+5,Ozone,0.2,0.529621612,Uniform
+5,Ozone,0.2,0.522103146,Non_Uniform
+5,Ozone,0.5,0.485630903,Uniform
+5,Ozone,0.5,0.524996989,Non_Uniform
+5,Ozone,1,0.474968935,Uniform
+5,Ozone,1,0.474968935,Non_Uniform
+6,INSECTS incremental_imbalanced,0.05,0.258671007,Uniform
+6,INSECTS incremental_imbalanced,0.05,0.25230274,Non_Uniform
+6,INSECTS incremental_imbalanced,0.1,0.233883403,Uniform
+6,INSECTS incremental_imbalanced,0.1,0.248251697,Non_Uniform
+6,INSECTS incremental_imbalanced,0.2,0.202891199,Uniform
+6,INSECTS incremental_imbalanced,0.2,0.254961198,Non_Uniform
+6,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+6,INSECTS incremental_imbalanced,0.5,0.347937391,Non_Uniform
+6,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+6,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+6,INSECTS incremental-abrupt_imbalanced,0.05,0.236757348,Uniform
+6,INSECTS incremental-abrupt_imbalanced,0.05,0.257426363,Non_Uniform
+6,INSECTS incremental-abrupt_imbalanced,0.1,0.246661802,Uniform
+6,INSECTS incremental-abrupt_imbalanced,0.1,0.248427169,Non_Uniform
+6,INSECTS incremental-abrupt_imbalanced,0.2,0.245814772,Uniform
+6,INSECTS incremental-abrupt_imbalanced,0.2,0.27392352,Non_Uniform
+6,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+6,INSECTS incremental-abrupt_imbalanced,0.5,0.34272526,Non_Uniform
+6,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+6,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+6,Keystroke,0.05,0.522383044,Uniform
+6,Keystroke,0.05,0.563288991,Non_Uniform
+6,Keystroke,0.1,0.67448349,Uniform
+6,Keystroke,0.1,0.648722985,Non_Uniform
+6,Keystroke,0.2,0.759429881,Uniform
+6,Keystroke,0.2,0.758870927,Non_Uniform
+6,Keystroke,0.5,0.684794435,Uniform
+6,Keystroke,0.5,0.928235031,Non_Uniform
+6,Keystroke,1,0.940603409,Uniform
+6,Keystroke,1,0.940603409,Non_Uniform
+6,NOAA,0.05,0.525271946,Uniform
+6,NOAA,0.05,0.527035728,Non_Uniform
+6,NOAA,0.1,0.562893313,Uniform
+6,NOAA,0.1,0.58076393,Non_Uniform
+6,NOAA,0.2,0.576886398,Uniform
+6,NOAA,0.2,0.617389563,Non_Uniform
+6,NOAA,0.5,0.65697857,Uniform
+6,NOAA,0.5,0.665489682,Non_Uniform
+6,NOAA,1,0.673206388,Uniform
+6,NOAA,1,0.673206388,Non_Uniform
+6,Ozone,0.05,0.459718001,Uniform
+6,Ozone,0.05,0.274389941,Non_Uniform
+6,Ozone,0.1,0.430694173,Uniform
+6,Ozone,0.1,0.452857705,Non_Uniform
+6,Ozone,0.2,0.529621612,Uniform
+6,Ozone,0.2,0.501320978,Non_Uniform
+6,Ozone,0.5,0.521537607,Uniform
+6,Ozone,0.5,0.525689141,Non_Uniform
+6,Ozone,1,0.474968935,Uniform
+6,Ozone,1,0.474968935,Non_Uniform
+7,INSECTS incremental_imbalanced,0.05,0.256502765,Uniform
+7,INSECTS incremental_imbalanced,0.05,0.244621361,Non_Uniform
+7,INSECTS incremental_imbalanced,0.1,0.247064631,Uniform
+7,INSECTS incremental_imbalanced,0.1,0.246273941,Non_Uniform
+7,INSECTS incremental_imbalanced,0.2,0.201822281,Uniform
+7,INSECTS incremental_imbalanced,0.2,0.274685661,Non_Uniform
+7,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+7,INSECTS incremental_imbalanced,0.5,0.339862602,Non_Uniform
+7,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+7,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+7,INSECTS incremental-abrupt_imbalanced,0.05,0.258644941,Uniform
+7,INSECTS incremental-abrupt_imbalanced,0.05,0.239798184,Non_Uniform
+7,INSECTS incremental-abrupt_imbalanced,0.1,0.246661802,Uniform
+7,INSECTS incremental-abrupt_imbalanced,0.1,0.256193207,Non_Uniform
+7,INSECTS incremental-abrupt_imbalanced,0.2,0.244025048,Uniform
+7,INSECTS incremental-abrupt_imbalanced,0.2,0.279147133,Non_Uniform
+7,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+7,INSECTS incremental-abrupt_imbalanced,0.5,0.353344014,Non_Uniform
+7,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+7,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+7,Keystroke,0.05,0.564406712,Uniform
+7,Keystroke,0.05,0.541260967,Non_Uniform
+7,Keystroke,0.1,0.703439806,Uniform
+7,Keystroke,0.1,0.683182373,Non_Uniform
+7,Keystroke,0.2,0.74264432,Uniform
+7,Keystroke,0.2,0.789351392,Non_Uniform
+7,Keystroke,0.5,0.684794435,Uniform
+7,Keystroke,0.5,0.919260594,Non_Uniform
+7,Keystroke,1,0.940603409,Uniform
+7,Keystroke,1,0.940603409,Non_Uniform
+7,NOAA,0.05,0.525271946,Uniform
+7,NOAA,0.05,0.537127183,Non_Uniform
+7,NOAA,0.1,0.568087838,Uniform
+7,NOAA,0.1,0.577075604,Non_Uniform
+7,NOAA,0.2,0.574929936,Uniform
+7,NOAA,0.2,0.630285891,Non_Uniform
+7,NOAA,0.5,0.664807861,Uniform
+7,NOAA,0.5,0.66742029,Non_Uniform
+7,NOAA,1,0.673206388,Uniform
+7,NOAA,1,0.673206388,Non_Uniform
+7,Ozone,0.05,0.386896732,Uniform
+7,Ozone,0.05,0.430792047,Non_Uniform
+7,Ozone,0.1,0.444960184,Uniform
+7,Ozone,0.1,0.505836509,Non_Uniform
+7,Ozone,0.2,0.530672797,Uniform
+7,Ozone,0.2,0.436913905,Non_Uniform
+7,Ozone,0.5,0.485630903,Uniform
+7,Ozone,0.5,0.495316918,Non_Uniform
+7,Ozone,1,0.474968935,Uniform
+7,Ozone,1,0.474968935,Non_Uniform
+8,INSECTS incremental_imbalanced,0.05,0.244001277,Uniform
+8,INSECTS incremental_imbalanced,0.05,0.248841589,Non_Uniform
+8,INSECTS incremental_imbalanced,0.1,0.233883403,Uniform
+8,INSECTS incremental_imbalanced,0.1,0.250865499,Non_Uniform
+8,INSECTS incremental_imbalanced,0.2,0.198063957,Uniform
+8,INSECTS incremental_imbalanced,0.2,0.27139265,Non_Uniform
+8,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+8,INSECTS incremental_imbalanced,0.5,0.353386544,Non_Uniform
+8,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+8,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+8,INSECTS incremental-abrupt_imbalanced,0.05,0.238917833,Uniform
+8,INSECTS incremental-abrupt_imbalanced,0.05,0.253693052,Non_Uniform
+8,INSECTS incremental-abrupt_imbalanced,0.1,0.256377587,Uniform
+8,INSECTS incremental-abrupt_imbalanced,0.1,0.252956263,Non_Uniform
+8,INSECTS incremental-abrupt_imbalanced,0.2,0.244025048,Uniform
+8,INSECTS incremental-abrupt_imbalanced,0.2,0.262074709,Non_Uniform
+8,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+8,INSECTS incremental-abrupt_imbalanced,0.5,0.34104203,Non_Uniform
+8,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+8,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+8,Keystroke,0.05,0.497770431,Uniform
+8,Keystroke,0.05,0.543876877,Non_Uniform
+8,Keystroke,0.1,0.703439806,Uniform
+8,Keystroke,0.1,0.670718413,Non_Uniform
+8,Keystroke,0.2,0.808101158,Uniform
+8,Keystroke,0.2,0.781840013,Non_Uniform
+8,Keystroke,0.5,0.684794435,Uniform
+8,Keystroke,0.5,0.92117095,Non_Uniform
+8,Keystroke,1,0.940603409,Uniform
+8,Keystroke,1,0.940603409,Non_Uniform
+8,NOAA,0.05,0.525269049,Uniform
+8,NOAA,0.05,0.552333757,Non_Uniform
+8,NOAA,0.1,0.566683737,Uniform
+8,NOAA,0.1,0.574482305,Non_Uniform
+8,NOAA,0.2,0.576154674,Uniform
+8,NOAA,0.2,0.618447058,Non_Uniform
+8,NOAA,0.5,0.664807861,Uniform
+8,NOAA,0.5,0.667280663,Non_Uniform
+8,NOAA,1,0.673206388,Uniform
+8,NOAA,1,0.673206388,Non_Uniform
+8,Ozone,0.05,0.398216804,Uniform
+8,Ozone,0.05,0.374852416,Non_Uniform
+8,Ozone,0.1,0.444960184,Uniform
+8,Ozone,0.1,0.399732467,Non_Uniform
+8,Ozone,0.2,0.526925722,Uniform
+8,Ozone,0.2,0.49888683,Non_Uniform
+8,Ozone,0.5,0.521537607,Uniform
+8,Ozone,0.5,0.496079699,Non_Uniform
+8,Ozone,1,0.474968935,Uniform
+8,Ozone,1,0.474968935,Non_Uniform
+9,INSECTS incremental_imbalanced,0.05,0.235156016,Uniform
+9,INSECTS incremental_imbalanced,0.05,0.249209698,Non_Uniform
+9,INSECTS incremental_imbalanced,0.1,0.242432147,Uniform
+9,INSECTS incremental_imbalanced,0.1,0.245513636,Non_Uniform
+9,INSECTS incremental_imbalanced,0.2,0.201822281,Uniform
+9,INSECTS incremental_imbalanced,0.2,0.2628174,Non_Uniform
+9,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+9,INSECTS incremental_imbalanced,0.5,0.353304714,Non_Uniform
+9,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+9,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+9,INSECTS incremental-abrupt_imbalanced,0.05,0.243107428,Uniform
+9,INSECTS incremental-abrupt_imbalanced,0.05,0.246779748,Non_Uniform
+9,INSECTS incremental-abrupt_imbalanced,0.1,0.256377587,Uniform
+9,INSECTS incremental-abrupt_imbalanced,0.1,0.251887415,Non_Uniform
+9,INSECTS incremental-abrupt_imbalanced,0.2,0.244025048,Uniform
+9,INSECTS incremental-abrupt_imbalanced,0.2,0.270840037,Non_Uniform
+9,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+9,INSECTS incremental-abrupt_imbalanced,0.5,0.344653479,Non_Uniform
+9,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+9,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+9,Keystroke,0.05,0.552038438,Uniform
+9,Keystroke,0.05,0.569867077,Non_Uniform
+9,Keystroke,0.1,0.649606869,Uniform
+9,Keystroke,0.1,0.609237058,Non_Uniform
+9,Keystroke,0.2,0.759429881,Uniform
+9,Keystroke,0.2,0.789391113,Non_Uniform
+9,Keystroke,0.5,0.684794435,Uniform
+9,Keystroke,0.5,0.918363107,Non_Uniform
+9,Keystroke,1,0.940603409,Uniform
+9,Keystroke,1,0.940603409,Non_Uniform
+9,NOAA,0.05,0.54276091,Uniform
+9,NOAA,0.05,0.545670153,Non_Uniform
+9,NOAA,0.1,0.566683737,Uniform
+9,NOAA,0.1,0.584757526,Non_Uniform
+9,NOAA,0.2,0.576886398,Uniform
+9,NOAA,0.2,0.629931717,Non_Uniform
+9,NOAA,0.5,0.664807861,Uniform
+9,NOAA,0.5,0.667585473,Non_Uniform
+9,NOAA,1,0.673206388,Uniform
+9,NOAA,1,0.673206388,Non_Uniform
+9,Ozone,0.05,0.415783916,Uniform
+9,Ozone,0.05,0.350642328,Non_Uniform
+9,Ozone,0.1,0.499601971,Uniform
+9,Ozone,0.1,0.405069061,Non_Uniform
+9,Ozone,0.2,0.483722719,Uniform
+9,Ozone,0.2,0.45303804,Non_Uniform
+9,Ozone,0.5,0.521537607,Uniform
+9,Ozone,0.5,0.460954359,Non_Uniform
+9,Ozone,1,0.474968935,Uniform
+9,Ozone,1,0.474968935,Non_Uniform
+10,INSECTS incremental_imbalanced,0.05,0.235156016,Uniform
+10,INSECTS incremental_imbalanced,0.05,0.259229751,Non_Uniform
+10,INSECTS incremental_imbalanced,0.1,0.253359944,Uniform
+10,INSECTS incremental_imbalanced,0.1,0.245981454,Non_Uniform
+10,INSECTS incremental_imbalanced,0.2,0.205993271,Uniform
+10,INSECTS incremental_imbalanced,0.2,0.261899764,Non_Uniform
+10,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+10,INSECTS incremental_imbalanced,0.5,0.3487794,Non_Uniform
+10,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+10,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+10,INSECTS incremental-abrupt_imbalanced,0.05,0.236757348,Uniform
+10,INSECTS incremental-abrupt_imbalanced,0.05,0.249365001,Non_Uniform
+10,INSECTS incremental-abrupt_imbalanced,0.1,0.261829691,Uniform
+10,INSECTS incremental-abrupt_imbalanced,0.1,0.266200698,Non_Uniform
+10,INSECTS incremental-abrupt_imbalanced,0.2,0.253076247,Uniform
+10,INSECTS incremental-abrupt_imbalanced,0.2,0.277383573,Non_Uniform
+10,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+10,INSECTS incremental-abrupt_imbalanced,0.5,0.345892777,Non_Uniform
+10,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+10,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+10,Keystroke,0.05,0.552038438,Uniform
+10,Keystroke,0.05,0.548614283,Non_Uniform
+10,Keystroke,0.1,0.67448349,Uniform
+10,Keystroke,0.1,0.675411035,Non_Uniform
+10,Keystroke,0.2,0.759429881,Uniform
+10,Keystroke,0.2,0.789573803,Non_Uniform
+10,Keystroke,0.5,0.684794435,Uniform
+10,Keystroke,0.5,0.910007043,Non_Uniform
+10,Keystroke,1,0.940603409,Uniform
+10,Keystroke,1,0.940603409,Non_Uniform
+10,NOAA,0.05,0.555939853,Uniform
+10,NOAA,0.05,0.530071872,Non_Uniform
+10,NOAA,0.1,0.555774044,Uniform
+10,NOAA,0.1,0.589291467,Non_Uniform
+10,NOAA,0.2,0.564626106,Uniform
+10,NOAA,0.2,0.617074442,Non_Uniform
+10,NOAA,0.5,0.65697857,Uniform
+10,NOAA,0.5,0.659853295,Non_Uniform
+10,NOAA,1,0.673206388,Uniform
+10,NOAA,1,0.673206388,Non_Uniform
+10,Ozone,0.05,0.415783916,Uniform
+10,Ozone,0.05,0.446317139,Non_Uniform
+10,Ozone,0.1,0.487555938,Uniform
+10,Ozone,0.1,0.409558537,Non_Uniform
+10,Ozone,0.2,0.530672797,Uniform
+10,Ozone,0.2,0.547780282,Non_Uniform
+10,Ozone,0.5,0.521537607,Uniform
+10,Ozone,0.5,0.473426991,Non_Uniform
+10,Ozone,1,0.474968935,Uniform
+10,Ozone,1,0.474968935,Non_Uniform
+11,INSECTS incremental_imbalanced,0.05,0.258671007,Uniform
+11,INSECTS incremental_imbalanced,0.05,0.248077401,Non_Uniform
+11,INSECTS incremental_imbalanced,0.1,0.242432147,Uniform
+11,INSECTS incremental_imbalanced,0.1,0.247947746,Non_Uniform
+11,INSECTS incremental_imbalanced,0.2,0.201822281,Uniform
+11,INSECTS incremental_imbalanced,0.2,0.269894347,Non_Uniform
+11,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+11,INSECTS incremental_imbalanced,0.5,0.359527902,Non_Uniform
+11,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+11,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+11,INSECTS incremental-abrupt_imbalanced,0.05,0.245969896,Uniform
+11,INSECTS incremental-abrupt_imbalanced,0.05,0.249901536,Non_Uniform
+11,INSECTS incremental-abrupt_imbalanced,0.1,0.251056904,Uniform
+11,INSECTS incremental-abrupt_imbalanced,0.1,0.254606006,Non_Uniform
+11,INSECTS incremental-abrupt_imbalanced,0.2,0.253076247,Uniform
+11,INSECTS incremental-abrupt_imbalanced,0.2,0.268547959,Non_Uniform
+11,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+11,INSECTS incremental-abrupt_imbalanced,0.5,0.338877129,Non_Uniform
+11,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+11,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+11,Keystroke,0.05,0.469252723,Uniform
+11,Keystroke,0.05,0.620299406,Non_Uniform
+11,Keystroke,0.1,0.718405722,Uniform
+11,Keystroke,0.1,0.665703912,Non_Uniform
+11,Keystroke,0.2,0.74264432,Uniform
+11,Keystroke,0.2,0.765812154,Non_Uniform
+11,Keystroke,0.5,0.684794435,Uniform
+11,Keystroke,0.5,0.925149297,Non_Uniform
+11,Keystroke,1,0.940603409,Uniform
+11,Keystroke,1,0.940603409,Non_Uniform
+11,NOAA,0.05,0.537464699,Uniform
+11,NOAA,0.05,0.544333078,Non_Uniform
+11,NOAA,0.1,0.566683737,Uniform
+11,NOAA,0.1,0.578017987,Non_Uniform
+11,NOAA,0.2,0.564626106,Uniform
+11,NOAA,0.2,0.627033204,Non_Uniform
+11,NOAA,0.5,0.65697857,Uniform
+11,NOAA,0.5,0.663828585,Non_Uniform
+11,NOAA,1,0.673206388,Uniform
+11,NOAA,1,0.673206388,Non_Uniform
+11,Ozone,0.05,0.448584292,Uniform
+11,Ozone,0.05,0.285975963,Non_Uniform
+11,Ozone,0.1,0.444960184,Uniform
+11,Ozone,0.1,0.392639515,Non_Uniform
+11,Ozone,0.2,0.529621612,Uniform
+11,Ozone,0.2,0.482659357,Non_Uniform
+11,Ozone,0.5,0.485630903,Uniform
+11,Ozone,0.5,0.510593408,Non_Uniform
+11,Ozone,1,0.474968935,Uniform
+11,Ozone,1,0.474968935,Non_Uniform
+12,INSECTS incremental_imbalanced,0.05,0.258429644,Uniform
+12,INSECTS incremental_imbalanced,0.05,0.246589543,Non_Uniform
+12,INSECTS incremental_imbalanced,0.1,0.253359944,Uniform
+12,INSECTS incremental_imbalanced,0.1,0.246995482,Non_Uniform
+12,INSECTS incremental_imbalanced,0.2,0.198063957,Uniform
+12,INSECTS incremental_imbalanced,0.2,0.272298545,Non_Uniform
+12,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+12,INSECTS incremental_imbalanced,0.5,0.348912467,Non_Uniform
+12,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+12,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+12,INSECTS incremental-abrupt_imbalanced,0.05,0.242604459,Uniform
+12,INSECTS incremental-abrupt_imbalanced,0.05,0.260638767,Non_Uniform
+12,INSECTS incremental-abrupt_imbalanced,0.1,0.253502868,Uniform
+12,INSECTS incremental-abrupt_imbalanced,0.1,0.254467084,Non_Uniform
+12,INSECTS incremental-abrupt_imbalanced,0.2,0.244025048,Uniform
+12,INSECTS incremental-abrupt_imbalanced,0.2,0.268136097,Non_Uniform
+12,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+12,INSECTS incremental-abrupt_imbalanced,0.5,0.339041933,Non_Uniform
+12,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+12,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+12,Keystroke,0.05,0.485784035,Uniform
+12,Keystroke,0.05,0.571800523,Non_Uniform
+12,Keystroke,0.1,0.67448349,Uniform
+12,Keystroke,0.1,0.692881446,Non_Uniform
+12,Keystroke,0.2,0.794458979,Uniform
+12,Keystroke,0.2,0.781783866,Non_Uniform
+12,Keystroke,0.5,0.684794435,Uniform
+12,Keystroke,0.5,0.914452387,Non_Uniform
+12,Keystroke,1,0.940603409,Uniform
+12,Keystroke,1,0.940603409,Non_Uniform
+12,NOAA,0.05,0.527218925,Uniform
+12,NOAA,0.05,0.552016382,Non_Uniform
+12,NOAA,0.1,0.562893313,Uniform
+12,NOAA,0.1,0.573816131,Non_Uniform
+12,NOAA,0.2,0.574929936,Uniform
+12,NOAA,0.2,0.625463337,Non_Uniform
+12,NOAA,0.5,0.65697857,Uniform
+12,NOAA,0.5,0.663244416,Non_Uniform
+12,NOAA,1,0.673206388,Uniform
+12,NOAA,1,0.673206388,Non_Uniform
+12,Ozone,0.05,0.393654881,Uniform
+12,Ozone,0.05,0.37527393,Non_Uniform
+12,Ozone,0.1,0.450062062,Uniform
+12,Ozone,0.1,0.440935978,Non_Uniform
+12,Ozone,0.2,0.526925722,Uniform
+12,Ozone,0.2,0.495659916,Non_Uniform
+12,Ozone,0.5,0.521537607,Uniform
+12,Ozone,0.5,0.482233356,Non_Uniform
+12,Ozone,1,0.474968935,Uniform
+12,Ozone,1,0.474968935,Non_Uniform
+13,INSECTS incremental_imbalanced,0.05,0.235156016,Uniform
+13,INSECTS incremental_imbalanced,0.05,0.240469875,Non_Uniform
+13,INSECTS incremental_imbalanced,0.1,0.255011261,Uniform
+13,INSECTS incremental_imbalanced,0.1,0.25964556,Non_Uniform
+13,INSECTS incremental_imbalanced,0.2,0.202891199,Uniform
+13,INSECTS incremental_imbalanced,0.2,0.259698518,Non_Uniform
+13,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+13,INSECTS incremental_imbalanced,0.5,0.348709159,Non_Uniform
+13,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+13,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+13,INSECTS incremental-abrupt_imbalanced,0.05,0.255361849,Uniform
+13,INSECTS incremental-abrupt_imbalanced,0.05,0.254804587,Non_Uniform
+13,INSECTS incremental-abrupt_imbalanced,0.1,0.258921829,Uniform
+13,INSECTS incremental-abrupt_imbalanced,0.1,0.248337646,Non_Uniform
+13,INSECTS incremental-abrupt_imbalanced,0.2,0.245814772,Uniform
+13,INSECTS incremental-abrupt_imbalanced,0.2,0.274110233,Non_Uniform
+13,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+13,INSECTS incremental-abrupt_imbalanced,0.5,0.347697341,Non_Uniform
+13,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+13,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+13,Keystroke,0.05,0.549737125,Uniform
+13,Keystroke,0.05,0.517639783,Non_Uniform
+13,Keystroke,0.1,0.669397273,Uniform
+13,Keystroke,0.1,0.642807496,Non_Uniform
+13,Keystroke,0.2,0.759429881,Uniform
+13,Keystroke,0.2,0.79706344,Non_Uniform
+13,Keystroke,0.5,0.684794435,Uniform
+13,Keystroke,0.5,0.925166242,Non_Uniform
+13,Keystroke,1,0.940603409,Uniform
+13,Keystroke,1,0.940603409,Non_Uniform
+13,NOAA,0.05,0.537464699,Uniform
+13,NOAA,0.05,0.553217039,Non_Uniform
+13,NOAA,0.1,0.562893313,Uniform
+13,NOAA,0.1,0.562205716,Non_Uniform
+13,NOAA,0.2,0.576886398,Uniform
+13,NOAA,0.2,0.61347139,Non_Uniform
+13,NOAA,0.5,0.65697857,Uniform
+13,NOAA,0.5,0.666329829,Non_Uniform
+13,NOAA,1,0.673206388,Uniform
+13,NOAA,1,0.673206388,Non_Uniform
+13,Ozone,0.05,0.481380222,Uniform
+13,Ozone,0.05,0.387604362,Non_Uniform
+13,Ozone,0.1,0.444960184,Uniform
+13,Ozone,0.1,0.413782882,Non_Uniform
+13,Ozone,0.2,0.526925722,Uniform
+13,Ozone,0.2,0.50658345,Non_Uniform
+13,Ozone,0.5,0.521537607,Uniform
+13,Ozone,0.5,0.501651993,Non_Uniform
+13,Ozone,1,0.474968935,Uniform
+13,Ozone,1,0.474968935,Non_Uniform
+14,INSECTS incremental_imbalanced,0.05,0.237393893,Uniform
+14,INSECTS incremental_imbalanced,0.05,0.246756444,Non_Uniform
+14,INSECTS incremental_imbalanced,0.1,0.255011261,Uniform
+14,INSECTS incremental_imbalanced,0.1,0.247203678,Non_Uniform
+14,INSECTS incremental_imbalanced,0.2,0.198063957,Uniform
+14,INSECTS incremental_imbalanced,0.2,0.27540536,Non_Uniform
+14,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+14,INSECTS incremental_imbalanced,0.5,0.345434264,Non_Uniform
+14,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+14,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+14,INSECTS incremental-abrupt_imbalanced,0.05,0.256395692,Uniform
+14,INSECTS incremental-abrupt_imbalanced,0.05,0.250863706,Non_Uniform
+14,INSECTS incremental-abrupt_imbalanced,0.1,0.246993937,Uniform
+14,INSECTS incremental-abrupt_imbalanced,0.1,0.255008244,Non_Uniform
+14,INSECTS incremental-abrupt_imbalanced,0.2,0.244025048,Uniform
+14,INSECTS incremental-abrupt_imbalanced,0.2,0.28022644,Non_Uniform
+14,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+14,INSECTS incremental-abrupt_imbalanced,0.5,0.349967472,Non_Uniform
+14,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+14,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+14,Keystroke,0.05,0.618715253,Uniform
+14,Keystroke,0.05,0.541249381,Non_Uniform
+14,Keystroke,0.1,0.669397273,Uniform
+14,Keystroke,0.1,0.65756399,Non_Uniform
+14,Keystroke,0.2,0.74264432,Uniform
+14,Keystroke,0.2,0.776649443,Non_Uniform
+14,Keystroke,0.5,0.684794435,Uniform
+14,Keystroke,0.5,0.911721295,Non_Uniform
+14,Keystroke,1,0.940603409,Uniform
+14,Keystroke,1,0.940603409,Non_Uniform
+14,NOAA,0.05,0.555939853,Uniform
+14,NOAA,0.05,0.531137209,Non_Uniform
+14,NOAA,0.1,0.598205873,Uniform
+14,NOAA,0.1,0.579061051,Non_Uniform
+14,NOAA,0.2,0.576886398,Uniform
+14,NOAA,0.2,0.620274879,Non_Uniform
+14,NOAA,0.5,0.65697857,Uniform
+14,NOAA,0.5,0.666456974,Non_Uniform
+14,NOAA,1,0.673206388,Uniform
+14,NOAA,1,0.673206388,Non_Uniform
+14,Ozone,0.05,0.474030474,Uniform
+14,Ozone,0.05,0.437670107,Non_Uniform
+14,Ozone,0.1,0.444960184,Uniform
+14,Ozone,0.1,0.448366907,Non_Uniform
+14,Ozone,0.2,0.483722719,Uniform
+14,Ozone,0.2,0.466790804,Non_Uniform
+14,Ozone,0.5,0.485630903,Uniform
+14,Ozone,0.5,0.460353766,Non_Uniform
+14,Ozone,1,0.474968935,Uniform
+14,Ozone,1,0.474968935,Non_Uniform
+15,INSECTS incremental_imbalanced,0.05,0.257925235,Uniform
+15,INSECTS incremental_imbalanced,0.05,0.250531706,Non_Uniform
+15,INSECTS incremental_imbalanced,0.1,0.253359944,Uniform
+15,INSECTS incremental_imbalanced,0.1,0.254636777,Non_Uniform
+15,INSECTS incremental_imbalanced,0.2,0.198063957,Uniform
+15,INSECTS incremental_imbalanced,0.2,0.271485192,Non_Uniform
+15,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+15,INSECTS incremental_imbalanced,0.5,0.351124392,Non_Uniform
+15,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+15,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+15,INSECTS incremental-abrupt_imbalanced,0.05,0.256395692,Uniform
+15,INSECTS incremental-abrupt_imbalanced,0.05,0.256300506,Non_Uniform
+15,INSECTS incremental-abrupt_imbalanced,0.1,0.252093362,Uniform
+15,INSECTS incremental-abrupt_imbalanced,0.1,0.250391336,Non_Uniform
+15,INSECTS incremental-abrupt_imbalanced,0.2,0.245814772,Uniform
+15,INSECTS incremental-abrupt_imbalanced,0.2,0.277518964,Non_Uniform
+15,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+15,INSECTS incremental-abrupt_imbalanced,0.5,0.336935327,Non_Uniform
+15,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+15,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+15,Keystroke,0.05,0.618715253,Uniform
+15,Keystroke,0.05,0.644056609,Non_Uniform
+15,Keystroke,0.1,0.669397273,Uniform
+15,Keystroke,0.1,0.655137229,Non_Uniform
+15,Keystroke,0.2,0.74264432,Uniform
+15,Keystroke,0.2,0.795405609,Non_Uniform
+15,Keystroke,0.5,0.684794435,Uniform
+15,Keystroke,0.5,0.925166242,Non_Uniform
+15,Keystroke,1,0.940603409,Uniform
+15,Keystroke,1,0.940603409,Non_Uniform
+15,NOAA,0.05,0.54276091,Uniform
+15,NOAA,0.05,0.528967895,Non_Uniform
+15,NOAA,0.1,0.568087838,Uniform
+15,NOAA,0.1,0.574453039,Non_Uniform
+15,NOAA,0.2,0.576886398,Uniform
+15,NOAA,0.2,0.62244167,Non_Uniform
+15,NOAA,0.5,0.664807861,Uniform
+15,NOAA,0.5,0.659459807,Non_Uniform
+15,NOAA,1,0.673206388,Uniform
+15,NOAA,1,0.673206388,Non_Uniform
+15,Ozone,0.05,0.460799995,Uniform
+15,Ozone,0.05,0.444151141,Non_Uniform
+15,Ozone,0.1,0.412111128,Uniform
+15,Ozone,0.1,0.537755587,Non_Uniform
+15,Ozone,0.2,0.526925722,Uniform
+15,Ozone,0.2,0.467628295,Non_Uniform
+15,Ozone,0.5,0.485630903,Uniform
+15,Ozone,0.5,0.453433361,Non_Uniform
+15,Ozone,1,0.474968935,Uniform
+15,Ozone,1,0.474968935,Non_Uniform
+16,INSECTS incremental_imbalanced,0.05,0.23777554,Uniform
+16,INSECTS incremental_imbalanced,0.05,0.253309001,Non_Uniform
+16,INSECTS incremental_imbalanced,0.1,0.243818076,Uniform
+16,INSECTS incremental_imbalanced,0.1,0.245991205,Non_Uniform
+16,INSECTS incremental_imbalanced,0.2,0.205993271,Uniform
+16,INSECTS incremental_imbalanced,0.2,0.272204451,Non_Uniform
+16,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+16,INSECTS incremental_imbalanced,0.5,0.35122011,Non_Uniform
+16,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+16,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+16,INSECTS incremental-abrupt_imbalanced,0.05,0.245081382,Uniform
+16,INSECTS incremental-abrupt_imbalanced,0.05,0.250653183,Non_Uniform
+16,INSECTS incremental-abrupt_imbalanced,0.1,0.252093362,Uniform
+16,INSECTS incremental-abrupt_imbalanced,0.1,0.252631854,Non_Uniform
+16,INSECTS incremental-abrupt_imbalanced,0.2,0.245814772,Uniform
+16,INSECTS incremental-abrupt_imbalanced,0.2,0.27367829,Non_Uniform
+16,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+16,INSECTS incremental-abrupt_imbalanced,0.5,0.342625501,Non_Uniform
+16,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+16,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+16,Keystroke,0.05,0.595635683,Uniform
+16,Keystroke,0.05,0.543088423,Non_Uniform
+16,Keystroke,0.1,0.703439806,Uniform
+16,Keystroke,0.1,0.679880685,Non_Uniform
+16,Keystroke,0.2,0.759429881,Uniform
+16,Keystroke,0.2,0.783850619,Non_Uniform
+16,Keystroke,0.5,0.684794435,Uniform
+16,Keystroke,0.5,0.929929169,Non_Uniform
+16,Keystroke,1,0.940603409,Uniform
+16,Keystroke,1,0.940603409,Non_Uniform
+16,NOAA,0.05,0.527224883,Uniform
+16,NOAA,0.05,0.545730737,Non_Uniform
+16,NOAA,0.1,0.598205873,Uniform
+16,NOAA,0.1,0.564243526,Non_Uniform
+16,NOAA,0.2,0.574929936,Uniform
+16,NOAA,0.2,0.632313588,Non_Uniform
+16,NOAA,0.5,0.664807861,Uniform
+16,NOAA,0.5,0.661538449,Non_Uniform
+16,NOAA,1,0.673206388,Uniform
+16,NOAA,1,0.673206388,Non_Uniform
+16,Ozone,0.05,0.29514409,Uniform
+16,Ozone,0.05,0.484481999,Non_Uniform
+16,Ozone,0.1,0.500547761,Uniform
+16,Ozone,0.1,0.361789514,Non_Uniform
+16,Ozone,0.2,0.530672797,Uniform
+16,Ozone,0.2,0.393828872,Non_Uniform
+16,Ozone,0.5,0.485630903,Uniform
+16,Ozone,0.5,0.516271903,Non_Uniform
+16,Ozone,1,0.474968935,Uniform
+16,Ozone,1,0.474968935,Non_Uniform
+17,INSECTS incremental_imbalanced,0.05,0.251619946,Uniform
+17,INSECTS incremental_imbalanced,0.05,0.253660863,Non_Uniform
+17,INSECTS incremental_imbalanced,0.1,0.247064631,Uniform
+17,INSECTS incremental_imbalanced,0.1,0.243984942,Non_Uniform
+17,INSECTS incremental_imbalanced,0.2,0.198063957,Uniform
+17,INSECTS incremental_imbalanced,0.2,0.277655435,Non_Uniform
+17,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+17,INSECTS incremental_imbalanced,0.5,0.34165005,Non_Uniform
+17,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+17,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+17,INSECTS incremental-abrupt_imbalanced,0.05,0.246213318,Uniform
+17,INSECTS incremental-abrupt_imbalanced,0.05,0.249439953,Non_Uniform
+17,INSECTS incremental-abrupt_imbalanced,0.1,0.252093362,Uniform
+17,INSECTS incremental-abrupt_imbalanced,0.1,0.260255229,Non_Uniform
+17,INSECTS incremental-abrupt_imbalanced,0.2,0.242342842,Uniform
+17,INSECTS incremental-abrupt_imbalanced,0.2,0.270583873,Non_Uniform
+17,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+17,INSECTS incremental-abrupt_imbalanced,0.5,0.347127641,Non_Uniform
+17,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+17,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+17,Keystroke,0.05,0.564406712,Uniform
+17,Keystroke,0.05,0.581265238,Non_Uniform
+17,Keystroke,0.1,0.677857726,Uniform
+17,Keystroke,0.1,0.672391448,Non_Uniform
+17,Keystroke,0.2,0.74264432,Uniform
+17,Keystroke,0.2,0.777436288,Non_Uniform
+17,Keystroke,0.5,0.684794435,Uniform
+17,Keystroke,0.5,0.931875975,Non_Uniform
+17,Keystroke,1,0.940603409,Uniform
+17,Keystroke,1,0.940603409,Non_Uniform
+17,NOAA,0.05,0.525269049,Uniform
+17,NOAA,0.05,0.550203815,Non_Uniform
+17,NOAA,0.1,0.566181584,Uniform
+17,NOAA,0.1,0.588299515,Non_Uniform
+17,NOAA,0.2,0.564626106,Uniform
+17,NOAA,0.2,0.623957386,Non_Uniform
+17,NOAA,0.5,0.664807861,Uniform
+17,NOAA,0.5,0.651531741,Non_Uniform
+17,NOAA,1,0.673206388,Uniform
+17,NOAA,1,0.673206388,Non_Uniform
+17,Ozone,0.05,0.481380222,Uniform
+17,Ozone,0.05,0.546161679,Non_Uniform
+17,Ozone,0.1,0.444960184,Uniform
+17,Ozone,0.1,0.440146476,Non_Uniform
+17,Ozone,0.2,0.483722719,Uniform
+17,Ozone,0.2,0.569627645,Non_Uniform
+17,Ozone,0.5,0.521537607,Uniform
+17,Ozone,0.5,0.564889762,Non_Uniform
+17,Ozone,1,0.474968935,Uniform
+17,Ozone,1,0.474968935,Non_Uniform
+18,INSECTS incremental_imbalanced,0.05,0.256502765,Uniform
+18,INSECTS incremental_imbalanced,0.05,0.242432868,Non_Uniform
+18,INSECTS incremental_imbalanced,0.1,0.242432147,Uniform
+18,INSECTS incremental_imbalanced,0.1,0.2521071,Non_Uniform
+18,INSECTS incremental_imbalanced,0.2,0.202891199,Uniform
+18,INSECTS incremental_imbalanced,0.2,0.251488972,Non_Uniform
+18,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+18,INSECTS incremental_imbalanced,0.5,0.33781914,Non_Uniform
+18,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+18,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+18,INSECTS incremental-abrupt_imbalanced,0.05,0.253621112,Uniform
+18,INSECTS incremental-abrupt_imbalanced,0.05,0.253265363,Non_Uniform
+18,INSECTS incremental-abrupt_imbalanced,0.1,0.255928533,Uniform
+18,INSECTS incremental-abrupt_imbalanced,0.1,0.253231894,Non_Uniform
+18,INSECTS incremental-abrupt_imbalanced,0.2,0.244025048,Uniform
+18,INSECTS incremental-abrupt_imbalanced,0.2,0.262755978,Non_Uniform
+18,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+18,INSECTS incremental-abrupt_imbalanced,0.5,0.34443981,Non_Uniform
+18,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+18,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+18,Keystroke,0.05,0.595635683,Uniform
+18,Keystroke,0.05,0.582219224,Non_Uniform
+18,Keystroke,0.1,0.631897724,Uniform
+18,Keystroke,0.1,0.678210715,Non_Uniform
+18,Keystroke,0.2,0.74264432,Uniform
+18,Keystroke,0.2,0.768285197,Non_Uniform
+18,Keystroke,0.5,0.684794435,Uniform
+18,Keystroke,0.5,0.926684425,Non_Uniform
+18,Keystroke,1,0.940603409,Uniform
+18,Keystroke,1,0.940603409,Non_Uniform
+18,NOAA,0.05,0.555939853,Uniform
+18,NOAA,0.05,0.540479827,Non_Uniform
+18,NOAA,0.1,0.56867797,Uniform
+18,NOAA,0.1,0.569533976,Non_Uniform
+18,NOAA,0.2,0.574929936,Uniform
+18,NOAA,0.2,0.62326202,Non_Uniform
+18,NOAA,0.5,0.65697857,Uniform
+18,NOAA,0.5,0.664209983,Non_Uniform
+18,NOAA,1,0.673206388,Uniform
+18,NOAA,1,0.673206388,Non_Uniform
+18,Ozone,0.05,0.29514409,Uniform
+18,Ozone,0.05,0.373331025,Non_Uniform
+18,Ozone,0.1,0.544095336,Uniform
+18,Ozone,0.1,0.488729964,Non_Uniform
+18,Ozone,0.2,0.529621612,Uniform
+18,Ozone,0.2,0.566312962,Non_Uniform
+18,Ozone,0.5,0.521537607,Uniform
+18,Ozone,0.5,0.496079699,Non_Uniform
+18,Ozone,1,0.474968935,Uniform
+18,Ozone,1,0.474968935,Non_Uniform
+19,INSECTS incremental_imbalanced,0.05,0.23777554,Uniform
+19,INSECTS incremental_imbalanced,0.05,0.245581265,Non_Uniform
+19,INSECTS incremental_imbalanced,0.1,0.250226153,Uniform
+19,INSECTS incremental_imbalanced,0.1,0.251041897,Non_Uniform
+19,INSECTS incremental_imbalanced,0.2,0.201822281,Uniform
+19,INSECTS incremental_imbalanced,0.2,0.279476667,Non_Uniform
+19,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+19,INSECTS incremental_imbalanced,0.5,0.345465401,Non_Uniform
+19,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+19,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+19,INSECTS incremental-abrupt_imbalanced,0.05,0.236757348,Uniform
+19,INSECTS incremental-abrupt_imbalanced,0.05,0.269243075,Non_Uniform
+19,INSECTS incremental-abrupt_imbalanced,0.1,0.261829691,Uniform
+19,INSECTS incremental-abrupt_imbalanced,0.1,0.262959644,Non_Uniform
+19,INSECTS incremental-abrupt_imbalanced,0.2,0.253076247,Uniform
+19,INSECTS incremental-abrupt_imbalanced,0.2,0.281217956,Non_Uniform
+19,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+19,INSECTS incremental-abrupt_imbalanced,0.5,0.346877592,Non_Uniform
+19,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+19,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+19,Keystroke,0.05,0.58616408,Uniform
+19,Keystroke,0.05,0.583263043,Non_Uniform
+19,Keystroke,0.1,0.703439806,Uniform
+19,Keystroke,0.1,0.676244583,Non_Uniform
+19,Keystroke,0.2,0.794458979,Uniform
+19,Keystroke,0.2,0.774504103,Non_Uniform
+19,Keystroke,0.5,0.684794435,Uniform
+19,Keystroke,0.5,0.91234584,Non_Uniform
+19,Keystroke,1,0.940603409,Uniform
+19,Keystroke,1,0.940603409,Non_Uniform
+19,NOAA,0.05,0.530457004,Uniform
+19,NOAA,0.05,0.557896128,Non_Uniform
+19,NOAA,0.1,0.566181584,Uniform
+19,NOAA,0.1,0.581530453,Non_Uniform
+19,NOAA,0.2,0.576154674,Uniform
+19,NOAA,0.2,0.615188572,Non_Uniform
+19,NOAA,0.5,0.65697857,Uniform
+19,NOAA,0.5,0.659129677,Non_Uniform
+19,NOAA,1,0.673206388,Uniform
+19,NOAA,1,0.673206388,Non_Uniform
+19,Ozone,0.05,0.474030474,Uniform
+19,Ozone,0.05,0.49600002,Non_Uniform
+19,Ozone,0.1,0.500547761,Uniform
+19,Ozone,0.1,0.471891176,Non_Uniform
+19,Ozone,0.2,0.530672797,Uniform
+19,Ozone,0.2,0.487620785,Non_Uniform
+19,Ozone,0.5,0.521537607,Uniform
+19,Ozone,0.5,0.469394231,Non_Uniform
+19,Ozone,1,0.474968935,Uniform
+19,Ozone,1,0.474968935,Non_Uniform
+20,INSECTS incremental_imbalanced,0.05,0.265674324,Uniform
+20,INSECTS incremental_imbalanced,0.05,0.252892948,Non_Uniform
+20,INSECTS incremental_imbalanced,0.1,0.247064631,Uniform
+20,INSECTS incremental_imbalanced,0.1,0.246116264,Non_Uniform
+20,INSECTS incremental_imbalanced,0.2,0.201822281,Uniform
+20,INSECTS incremental_imbalanced,0.2,0.278452392,Non_Uniform
+20,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+20,INSECTS incremental_imbalanced,0.5,0.340578474,Non_Uniform
+20,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+20,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+20,INSECTS incremental-abrupt_imbalanced,0.05,0.238917833,Uniform
+20,INSECTS incremental-abrupt_imbalanced,0.05,0.251981267,Non_Uniform
+20,INSECTS incremental-abrupt_imbalanced,0.1,0.246993937,Uniform
+20,INSECTS incremental-abrupt_imbalanced,0.1,0.249097083,Non_Uniform
+20,INSECTS incremental-abrupt_imbalanced,0.2,0.253076247,Uniform
+20,INSECTS incremental-abrupt_imbalanced,0.2,0.267314231,Non_Uniform
+20,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+20,INSECTS incremental-abrupt_imbalanced,0.5,0.348245111,Non_Uniform
+20,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+20,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+20,Keystroke,0.05,0.618715253,Uniform
+20,Keystroke,0.05,0.55334324,Non_Uniform
+20,Keystroke,0.1,0.669397273,Uniform
+20,Keystroke,0.1,0.623787471,Non_Uniform
+20,Keystroke,0.2,0.759429881,Uniform
+20,Keystroke,0.2,0.80786703,Non_Uniform
+20,Keystroke,0.5,0.684794435,Uniform
+20,Keystroke,0.5,0.910239011,Non_Uniform
+20,Keystroke,1,0.940603409,Uniform
+20,Keystroke,1,0.940603409,Non_Uniform
+20,NOAA,0.05,0.525271946,Uniform
+20,NOAA,0.05,0.543387401,Non_Uniform
+20,NOAA,0.1,0.555774044,Uniform
+20,NOAA,0.1,0.581195648,Non_Uniform
+20,NOAA,0.2,0.564626106,Uniform
+20,NOAA,0.2,0.623751564,Non_Uniform
+20,NOAA,0.5,0.664807861,Uniform
+20,NOAA,0.5,0.662588995,Non_Uniform
+20,NOAA,1,0.673206388,Uniform
+20,NOAA,1,0.673206388,Non_Uniform
+20,Ozone,0.05,0.476337205,Uniform
+20,Ozone,0.05,0.421542578,Non_Uniform
+20,Ozone,0.1,0.412111128,Uniform
+20,Ozone,0.1,0.53285796,Non_Uniform
+20,Ozone,0.2,0.483722719,Uniform
+20,Ozone,0.2,0.453898004,Non_Uniform
+20,Ozone,0.5,0.521537607,Uniform
+20,Ozone,0.5,0.466883933,Non_Uniform
+20,Ozone,1,0.474968935,Uniform
+20,Ozone,1,0.474968935,Non_Uniform
+21,INSECTS incremental_imbalanced,0.05,0.246452142,Uniform
+21,INSECTS incremental_imbalanced,0.05,0.247869148,Non_Uniform
+21,INSECTS incremental_imbalanced,0.1,0.255011261,Uniform
+21,INSECTS incremental_imbalanced,0.1,0.245418706,Non_Uniform
+21,INSECTS incremental_imbalanced,0.2,0.202891199,Uniform
+21,INSECTS incremental_imbalanced,0.2,0.263368925,Non_Uniform
+21,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+21,INSECTS incremental_imbalanced,0.5,0.353210187,Non_Uniform
+21,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+21,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+21,INSECTS incremental-abrupt_imbalanced,0.05,0.255356554,Uniform
+21,INSECTS incremental-abrupt_imbalanced,0.05,0.257563111,Non_Uniform
+21,INSECTS incremental-abrupt_imbalanced,0.1,0.251056904,Uniform
+21,INSECTS incremental-abrupt_imbalanced,0.1,0.253346326,Non_Uniform
+21,INSECTS incremental-abrupt_imbalanced,0.2,0.245814772,Uniform
+21,INSECTS incremental-abrupt_imbalanced,0.2,0.279337721,Non_Uniform
+21,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+21,INSECTS incremental-abrupt_imbalanced,0.5,0.351191317,Non_Uniform
+21,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+21,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+21,Keystroke,0.05,0.518591906,Uniform
+21,Keystroke,0.05,0.566044997,Non_Uniform
+21,Keystroke,0.1,0.677857726,Uniform
+21,Keystroke,0.1,0.641047476,Non_Uniform
+21,Keystroke,0.2,0.808101158,Uniform
+21,Keystroke,0.2,0.770263342,Non_Uniform
+21,Keystroke,0.5,0.684794435,Uniform
+21,Keystroke,0.5,0.915021386,Non_Uniform
+21,Keystroke,1,0.940603409,Uniform
+21,Keystroke,1,0.940603409,Non_Uniform
+21,NOAA,0.05,0.527224883,Uniform
+21,NOAA,0.05,0.546885452,Non_Uniform
+21,NOAA,0.1,0.563756652,Uniform
+21,NOAA,0.1,0.559411775,Non_Uniform
+21,NOAA,0.2,0.564626106,Uniform
+21,NOAA,0.2,0.617622468,Non_Uniform
+21,NOAA,0.5,0.664807861,Uniform
+21,NOAA,0.5,0.670082238,Non_Uniform
+21,NOAA,1,0.673206388,Uniform
+21,NOAA,1,0.673206388,Non_Uniform
+21,Ozone,0.05,0.328552705,Uniform
+21,Ozone,0.05,0.401777249,Non_Uniform
+21,Ozone,0.1,0.544095336,Uniform
+21,Ozone,0.1,0.468146393,Non_Uniform
+21,Ozone,0.2,0.526925722,Uniform
+21,Ozone,0.2,0.501100181,Non_Uniform
+21,Ozone,0.5,0.521537607,Uniform
+21,Ozone,0.5,0.566940734,Non_Uniform
+21,Ozone,1,0.474968935,Uniform
+21,Ozone,1,0.474968935,Non_Uniform
+22,INSECTS incremental_imbalanced,0.05,0.247127461,Uniform
+22,INSECTS incremental_imbalanced,0.05,0.255972465,Non_Uniform
+22,INSECTS incremental_imbalanced,0.1,0.233883403,Uniform
+22,INSECTS incremental_imbalanced,0.1,0.256024003,Non_Uniform
+22,INSECTS incremental_imbalanced,0.2,0.201822281,Uniform
+22,INSECTS incremental_imbalanced,0.2,0.277714464,Non_Uniform
+22,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+22,INSECTS incremental_imbalanced,0.5,0.352669459,Non_Uniform
+22,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+22,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+22,INSECTS incremental-abrupt_imbalanced,0.05,0.245969896,Uniform
+22,INSECTS incremental-abrupt_imbalanced,0.05,0.255806017,Non_Uniform
+22,INSECTS incremental-abrupt_imbalanced,0.1,0.253502868,Uniform
+22,INSECTS incremental-abrupt_imbalanced,0.1,0.25002658,Non_Uniform
+22,INSECTS incremental-abrupt_imbalanced,0.2,0.253076247,Uniform
+22,INSECTS incremental-abrupt_imbalanced,0.2,0.272041658,Non_Uniform
+22,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+22,INSECTS incremental-abrupt_imbalanced,0.5,0.348499298,Non_Uniform
+22,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+22,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+22,Keystroke,0.05,0.561292712,Uniform
+22,Keystroke,0.05,0.586094538,Non_Uniform
+22,Keystroke,0.1,0.660722537,Uniform
+22,Keystroke,0.1,0.635535938,Non_Uniform
+22,Keystroke,0.2,0.759429881,Uniform
+22,Keystroke,0.2,0.76382385,Non_Uniform
+22,Keystroke,0.5,0.684794435,Uniform
+22,Keystroke,0.5,0.900098924,Non_Uniform
+22,Keystroke,1,0.940603409,Uniform
+22,Keystroke,1,0.940603409,Non_Uniform
+22,NOAA,0.05,0.54276091,Uniform
+22,NOAA,0.05,0.537162297,Non_Uniform
+22,NOAA,0.1,0.566683737,Uniform
+22,NOAA,0.1,0.573783751,Non_Uniform
+22,NOAA,0.2,0.574929936,Uniform
+22,NOAA,0.2,0.616565683,Non_Uniform
+22,NOAA,0.5,0.664807861,Uniform
+22,NOAA,0.5,0.662186199,Non_Uniform
+22,NOAA,1,0.673206388,Uniform
+22,NOAA,1,0.673206388,Non_Uniform
+22,Ozone,0.05,0.398216804,Uniform
+22,Ozone,0.05,0.424681212,Non_Uniform
+22,Ozone,0.1,0.544095336,Uniform
+22,Ozone,0.1,0.447867111,Non_Uniform
+22,Ozone,0.2,0.483722719,Uniform
+22,Ozone,0.2,0.49855398,Non_Uniform
+22,Ozone,0.5,0.521537607,Uniform
+22,Ozone,0.5,0.491924671,Non_Uniform
+22,Ozone,1,0.474968935,Uniform
+22,Ozone,1,0.474968935,Non_Uniform
+23,INSECTS incremental_imbalanced,0.05,0.256502765,Uniform
+23,INSECTS incremental_imbalanced,0.05,0.255298247,Non_Uniform
+23,INSECTS incremental_imbalanced,0.1,0.253359944,Uniform
+23,INSECTS incremental_imbalanced,0.1,0.245729672,Non_Uniform
+23,INSECTS incremental_imbalanced,0.2,0.201822281,Uniform
+23,INSECTS incremental_imbalanced,0.2,0.279134555,Non_Uniform
+23,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+23,INSECTS incremental_imbalanced,0.5,0.352079358,Non_Uniform
+23,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+23,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+23,INSECTS incremental-abrupt_imbalanced,0.05,0.263494076,Uniform
+23,INSECTS incremental-abrupt_imbalanced,0.05,0.248990013,Non_Uniform
+23,INSECTS incremental-abrupt_imbalanced,0.1,0.256377587,Uniform
+23,INSECTS incremental-abrupt_imbalanced,0.1,0.260342649,Non_Uniform
+23,INSECTS incremental-abrupt_imbalanced,0.2,0.253076247,Uniform
+23,INSECTS incremental-abrupt_imbalanced,0.2,0.274009862,Non_Uniform
+23,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+23,INSECTS incremental-abrupt_imbalanced,0.5,0.344570313,Non_Uniform
+23,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+23,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+23,Keystroke,0.05,0.551070136,Uniform
+23,Keystroke,0.05,0.588059941,Non_Uniform
+23,Keystroke,0.1,0.703439806,Uniform
+23,Keystroke,0.1,0.688139375,Non_Uniform
+23,Keystroke,0.2,0.74264432,Uniform
+23,Keystroke,0.2,0.79186311,Non_Uniform
+23,Keystroke,0.5,0.684794435,Uniform
+23,Keystroke,0.5,0.918158234,Non_Uniform
+23,Keystroke,1,0.940603409,Uniform
+23,Keystroke,1,0.940603409,Non_Uniform
+23,NOAA,0.05,0.527224883,Uniform
+23,NOAA,0.05,0.540917668,Non_Uniform
+23,NOAA,0.1,0.563756652,Uniform
+23,NOAA,0.1,0.571065121,Non_Uniform
+23,NOAA,0.2,0.576886398,Uniform
+23,NOAA,0.2,0.635637641,Non_Uniform
+23,NOAA,0.5,0.65697857,Uniform
+23,NOAA,0.5,0.660516271,Non_Uniform
+23,NOAA,1,0.673206388,Uniform
+23,NOAA,1,0.673206388,Non_Uniform
+23,Ozone,0.05,0.386896732,Uniform
+23,Ozone,0.05,0.329753472,Non_Uniform
+23,Ozone,0.1,0.500547761,Uniform
+23,Ozone,0.1,0.438067267,Non_Uniform
+23,Ozone,0.2,0.530672797,Uniform
+23,Ozone,0.2,0.488052882,Non_Uniform
+23,Ozone,0.5,0.521537607,Uniform
+23,Ozone,0.5,0.520855115,Non_Uniform
+23,Ozone,1,0.474968935,Uniform
+23,Ozone,1,0.474968935,Non_Uniform
+24,INSECTS incremental_imbalanced,0.05,0.23777554,Uniform
+24,INSECTS incremental_imbalanced,0.05,0.259323844,Non_Uniform
+24,INSECTS incremental_imbalanced,0.1,0.251153796,Uniform
+24,INSECTS incremental_imbalanced,0.1,0.258205043,Non_Uniform
+24,INSECTS incremental_imbalanced,0.2,0.202891199,Uniform
+24,INSECTS incremental_imbalanced,0.2,0.282580867,Non_Uniform
+24,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+24,INSECTS incremental_imbalanced,0.5,0.343085918,Non_Uniform
+24,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+24,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+24,INSECTS incremental-abrupt_imbalanced,0.05,0.258644941,Uniform
+24,INSECTS incremental-abrupt_imbalanced,0.05,0.253412516,Non_Uniform
+24,INSECTS incremental-abrupt_imbalanced,0.1,0.256377587,Uniform
+24,INSECTS incremental-abrupt_imbalanced,0.1,0.24960339,Non_Uniform
+24,INSECTS incremental-abrupt_imbalanced,0.2,0.245814772,Uniform
+24,INSECTS incremental-abrupt_imbalanced,0.2,0.271257283,Non_Uniform
+24,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+24,INSECTS incremental-abrupt_imbalanced,0.5,0.340536233,Non_Uniform
+24,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+24,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+24,Keystroke,0.05,0.618715253,Uniform
+24,Keystroke,0.05,0.604863984,Non_Uniform
+24,Keystroke,0.1,0.67448349,Uniform
+24,Keystroke,0.1,0.630377539,Non_Uniform
+24,Keystroke,0.2,0.759429881,Uniform
+24,Keystroke,0.2,0.827994861,Non_Uniform
+24,Keystroke,0.5,0.684794435,Uniform
+24,Keystroke,0.5,0.927491605,Non_Uniform
+24,Keystroke,1,0.940603409,Uniform
+24,Keystroke,1,0.940603409,Non_Uniform
+24,NOAA,0.05,0.530335555,Uniform
+24,NOAA,0.05,0.538226699,Non_Uniform
+24,NOAA,0.1,0.563756652,Uniform
+24,NOAA,0.1,0.582634371,Non_Uniform
+24,NOAA,0.2,0.576886398,Uniform
+24,NOAA,0.2,0.614831819,Non_Uniform
+24,NOAA,0.5,0.65697857,Uniform
+24,NOAA,0.5,0.65297629,Non_Uniform
+24,NOAA,1,0.673206388,Uniform
+24,NOAA,1,0.673206388,Non_Uniform
+24,Ozone,0.05,0.476337205,Uniform
+24,Ozone,0.05,0.328841289,Non_Uniform
+24,Ozone,0.1,0.430694173,Uniform
+24,Ozone,0.1,0.445838685,Non_Uniform
+24,Ozone,0.2,0.526925722,Uniform
+24,Ozone,0.2,0.494115883,Non_Uniform
+24,Ozone,0.5,0.485630903,Uniform
+24,Ozone,0.5,0.59998419,Non_Uniform
+24,Ozone,1,0.474968935,Uniform
+24,Ozone,1,0.474968935,Non_Uniform
+25,INSECTS incremental_imbalanced,0.05,0.258429644,Uniform
+25,INSECTS incremental_imbalanced,0.05,0.253797357,Non_Uniform
+25,INSECTS incremental_imbalanced,0.1,0.254325286,Uniform
+25,INSECTS incremental_imbalanced,0.1,0.257636968,Non_Uniform
+25,INSECTS incremental_imbalanced,0.2,0.202891199,Uniform
+25,INSECTS incremental_imbalanced,0.2,0.263594125,Non_Uniform
+25,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+25,INSECTS incremental_imbalanced,0.5,0.350086086,Non_Uniform
+25,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+25,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+25,INSECTS incremental-abrupt_imbalanced,0.05,0.238917833,Uniform
+25,INSECTS incremental-abrupt_imbalanced,0.05,0.260410157,Non_Uniform
+25,INSECTS incremental-abrupt_imbalanced,0.1,0.261829691,Uniform
+25,INSECTS incremental-abrupt_imbalanced,0.1,0.252758129,Non_Uniform
+25,INSECTS incremental-abrupt_imbalanced,0.2,0.245814772,Uniform
+25,INSECTS incremental-abrupt_imbalanced,0.2,0.263044433,Non_Uniform
+25,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+25,INSECTS incremental-abrupt_imbalanced,0.5,0.348407109,Non_Uniform
+25,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+25,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+25,Keystroke,0.05,0.549737125,Uniform
+25,Keystroke,0.05,0.584090313,Non_Uniform
+25,Keystroke,0.1,0.677857726,Uniform
+25,Keystroke,0.1,0.573559835,Non_Uniform
+25,Keystroke,0.2,0.808101158,Uniform
+25,Keystroke,0.2,0.778880126,Non_Uniform
+25,Keystroke,0.5,0.684794435,Uniform
+25,Keystroke,0.5,0.907437653,Non_Uniform
+25,Keystroke,1,0.940603409,Uniform
+25,Keystroke,1,0.940603409,Non_Uniform
+25,NOAA,0.05,0.539597545,Uniform
+25,NOAA,0.05,0.548945108,Non_Uniform
+25,NOAA,0.1,0.564682885,Uniform
+25,NOAA,0.1,0.580345824,Non_Uniform
+25,NOAA,0.2,0.576154674,Uniform
+25,NOAA,0.2,0.624316743,Non_Uniform
+25,NOAA,0.5,0.664807861,Uniform
+25,NOAA,0.5,0.665902411,Non_Uniform
+25,NOAA,1,0.673206388,Uniform
+25,NOAA,1,0.673206388,Non_Uniform
+25,Ozone,0.05,0.476337205,Uniform
+25,Ozone,0.05,0.398038111,Non_Uniform
+25,Ozone,0.1,0.430694173,Uniform
+25,Ozone,0.1,0.467949358,Non_Uniform
+25,Ozone,0.2,0.526925722,Uniform
+25,Ozone,0.2,0.477480874,Non_Uniform
+25,Ozone,0.5,0.485630903,Uniform
+25,Ozone,0.5,0.508258111,Non_Uniform
+25,Ozone,1,0.474968935,Uniform
+25,Ozone,1,0.474968935,Non_Uniform
+26,INSECTS incremental_imbalanced,0.05,0.246452142,Uniform
+26,INSECTS incremental_imbalanced,0.05,0.2478178,Non_Uniform
+26,INSECTS incremental_imbalanced,0.1,0.253359944,Uniform
+26,INSECTS incremental_imbalanced,0.1,0.241953685,Non_Uniform
+26,INSECTS incremental_imbalanced,0.2,0.205993271,Uniform
+26,INSECTS incremental_imbalanced,0.2,0.263522511,Non_Uniform
+26,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+26,INSECTS incremental_imbalanced,0.5,0.352651828,Non_Uniform
+26,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+26,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+26,INSECTS incremental-abrupt_imbalanced,0.05,0.251629667,Uniform
+26,INSECTS incremental-abrupt_imbalanced,0.05,0.251244482,Non_Uniform
+26,INSECTS incremental-abrupt_imbalanced,0.1,0.258921829,Uniform
+26,INSECTS incremental-abrupt_imbalanced,0.1,0.259205573,Non_Uniform
+26,INSECTS incremental-abrupt_imbalanced,0.2,0.244025048,Uniform
+26,INSECTS incremental-abrupt_imbalanced,0.2,0.269249425,Non_Uniform
+26,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+26,INSECTS incremental-abrupt_imbalanced,0.5,0.345848423,Non_Uniform
+26,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+26,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+26,Keystroke,0.05,0.551070136,Uniform
+26,Keystroke,0.05,0.544408917,Non_Uniform
+26,Keystroke,0.1,0.669397273,Uniform
+26,Keystroke,0.1,0.658764499,Non_Uniform
+26,Keystroke,0.2,0.74264432,Uniform
+26,Keystroke,0.2,0.792247096,Non_Uniform
+26,Keystroke,0.5,0.684794435,Uniform
+26,Keystroke,0.5,0.922168845,Non_Uniform
+26,Keystroke,1,0.940603409,Uniform
+26,Keystroke,1,0.940603409,Non_Uniform
+26,NOAA,0.05,0.514839675,Uniform
+26,NOAA,0.05,0.556712584,Non_Uniform
+26,NOAA,0.1,0.598205873,Uniform
+26,NOAA,0.1,0.580577297,Non_Uniform
+26,NOAA,0.2,0.576154674,Uniform
+26,NOAA,0.2,0.631047518,Non_Uniform
+26,NOAA,0.5,0.65697857,Uniform
+26,NOAA,0.5,0.656676709,Non_Uniform
+26,NOAA,1,0.673206388,Uniform
+26,NOAA,1,0.673206388,Non_Uniform
+26,Ozone,0.05,0.398216804,Uniform
+26,Ozone,0.05,0.449611037,Non_Uniform
+26,Ozone,0.1,0.450062062,Uniform
+26,Ozone,0.1,0.458679414,Non_Uniform
+26,Ozone,0.2,0.530672797,Uniform
+26,Ozone,0.2,0.508693396,Non_Uniform
+26,Ozone,0.5,0.521537607,Uniform
+26,Ozone,0.5,0.41858503,Non_Uniform
+26,Ozone,1,0.474968935,Uniform
+26,Ozone,1,0.474968935,Non_Uniform
+27,INSECTS incremental_imbalanced,0.05,0.258671007,Uniform
+27,INSECTS incremental_imbalanced,0.05,0.249845314,Non_Uniform
+27,INSECTS incremental_imbalanced,0.1,0.248115518,Uniform
+27,INSECTS incremental_imbalanced,0.1,0.250901641,Non_Uniform
+27,INSECTS incremental_imbalanced,0.2,0.201822281,Uniform
+27,INSECTS incremental_imbalanced,0.2,0.270046423,Non_Uniform
+27,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+27,INSECTS incremental_imbalanced,0.5,0.354732426,Non_Uniform
+27,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+27,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+27,INSECTS incremental-abrupt_imbalanced,0.05,0.242604459,Uniform
+27,INSECTS incremental-abrupt_imbalanced,0.05,0.259507917,Non_Uniform
+27,INSECTS incremental-abrupt_imbalanced,0.1,0.253502868,Uniform
+27,INSECTS incremental-abrupt_imbalanced,0.1,0.260310799,Non_Uniform
+27,INSECTS incremental-abrupt_imbalanced,0.2,0.242342842,Uniform
+27,INSECTS incremental-abrupt_imbalanced,0.2,0.268189168,Non_Uniform
+27,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+27,INSECTS incremental-abrupt_imbalanced,0.5,0.344748162,Non_Uniform
+27,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+27,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+27,Keystroke,0.05,0.522383044,Uniform
+27,Keystroke,0.05,0.634129967,Non_Uniform
+27,Keystroke,0.1,0.703439806,Uniform
+27,Keystroke,0.1,0.656227515,Non_Uniform
+27,Keystroke,0.2,0.808101158,Uniform
+27,Keystroke,0.2,0.77565567,Non_Uniform
+27,Keystroke,0.5,0.684794435,Uniform
+27,Keystroke,0.5,0.918664642,Non_Uniform
+27,Keystroke,1,0.940603409,Uniform
+27,Keystroke,1,0.940603409,Non_Uniform
+27,NOAA,0.05,0.529426152,Uniform
+27,NOAA,0.05,0.56045673,Non_Uniform
+27,NOAA,0.1,0.598205873,Uniform
+27,NOAA,0.1,0.57784602,Non_Uniform
+27,NOAA,0.2,0.574929936,Uniform
+27,NOAA,0.2,0.628838051,Non_Uniform
+27,NOAA,0.5,0.65697857,Uniform
+27,NOAA,0.5,0.658190814,Non_Uniform
+27,NOAA,1,0.673206388,Uniform
+27,NOAA,1,0.673206388,Non_Uniform
+27,Ozone,0.05,0.298870132,Uniform
+27,Ozone,0.05,0.538612373,Non_Uniform
+27,Ozone,0.1,0.450062062,Uniform
+27,Ozone,0.1,0.41464165,Non_Uniform
+27,Ozone,0.2,0.530672797,Uniform
+27,Ozone,0.2,0.509149011,Non_Uniform
+27,Ozone,0.5,0.521537607,Uniform
+27,Ozone,0.5,0.503853197,Non_Uniform
+27,Ozone,1,0.474968935,Uniform
+27,Ozone,1,0.474968935,Non_Uniform
+28,INSECTS incremental_imbalanced,0.05,0.258429644,Uniform
+28,INSECTS incremental_imbalanced,0.05,0.249068598,Non_Uniform
+28,INSECTS incremental_imbalanced,0.1,0.247064631,Uniform
+28,INSECTS incremental_imbalanced,0.1,0.246523205,Non_Uniform
+28,INSECTS incremental_imbalanced,0.2,0.205993271,Uniform
+28,INSECTS incremental_imbalanced,0.2,0.283184042,Non_Uniform
+28,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+28,INSECTS incremental_imbalanced,0.5,0.346610523,Non_Uniform
+28,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+28,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+28,INSECTS incremental-abrupt_imbalanced,0.05,0.246002339,Uniform
+28,INSECTS incremental-abrupt_imbalanced,0.05,0.260382413,Non_Uniform
+28,INSECTS incremental-abrupt_imbalanced,0.1,0.253502868,Uniform
+28,INSECTS incremental-abrupt_imbalanced,0.1,0.262414502,Non_Uniform
+28,INSECTS incremental-abrupt_imbalanced,0.2,0.245814772,Uniform
+28,INSECTS incremental-abrupt_imbalanced,0.2,0.277258655,Non_Uniform
+28,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+28,INSECTS incremental-abrupt_imbalanced,0.5,0.343861698,Non_Uniform
+28,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+28,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+28,Keystroke,0.05,0.618715253,Uniform
+28,Keystroke,0.05,0.501925115,Non_Uniform
+28,Keystroke,0.1,0.703439806,Uniform
+28,Keystroke,0.1,0.650513652,Non_Uniform
+28,Keystroke,0.2,0.74264432,Uniform
+28,Keystroke,0.2,0.775789055,Non_Uniform
+28,Keystroke,0.5,0.684794435,Uniform
+28,Keystroke,0.5,0.920961027,Non_Uniform
+28,Keystroke,1,0.940603409,Uniform
+28,Keystroke,1,0.940603409,Non_Uniform
+28,NOAA,0.05,0.525269049,Uniform
+28,NOAA,0.05,0.560251818,Non_Uniform
+28,NOAA,0.1,0.598205873,Uniform
+28,NOAA,0.1,0.57920396,Non_Uniform
+28,NOAA,0.2,0.564626106,Uniform
+28,NOAA,0.2,0.619847654,Non_Uniform
+28,NOAA,0.5,0.664807861,Uniform
+28,NOAA,0.5,0.655330656,Non_Uniform
+28,NOAA,1,0.673206388,Uniform
+28,NOAA,1,0.673206388,Non_Uniform
+28,Ozone,0.05,0.398216804,Uniform
+28,Ozone,0.05,0.454738959,Non_Uniform
+28,Ozone,0.1,0.412111128,Uniform
+28,Ozone,0.1,0.402959253,Non_Uniform
+28,Ozone,0.2,0.529621612,Uniform
+28,Ozone,0.2,0.482020214,Non_Uniform
+28,Ozone,0.5,0.485630903,Uniform
+28,Ozone,0.5,0.535226229,Non_Uniform
+28,Ozone,1,0.474968935,Uniform
+28,Ozone,1,0.474968935,Non_Uniform
+29,INSECTS incremental_imbalanced,0.05,0.235156016,Uniform
+29,INSECTS incremental_imbalanced,0.05,0.245643867,Non_Uniform
+29,INSECTS incremental_imbalanced,0.1,0.243818076,Uniform
+29,INSECTS incremental_imbalanced,0.1,0.244807976,Non_Uniform
+29,INSECTS incremental_imbalanced,0.2,0.201822281,Uniform
+29,INSECTS incremental_imbalanced,0.2,0.256664728,Non_Uniform
+29,INSECTS incremental_imbalanced,0.5,0.140975782,Uniform
+29,INSECTS incremental_imbalanced,0.5,0.354387933,Non_Uniform
+29,INSECTS incremental_imbalanced,1,0.397326651,Uniform
+29,INSECTS incremental_imbalanced,1,0.397326651,Non_Uniform
+29,INSECTS incremental-abrupt_imbalanced,0.05,0.258644941,Uniform
+29,INSECTS incremental-abrupt_imbalanced,0.05,0.248515475,Non_Uniform
+29,INSECTS incremental-abrupt_imbalanced,0.1,0.251056904,Uniform
+29,INSECTS incremental-abrupt_imbalanced,0.1,0.246116167,Non_Uniform
+29,INSECTS incremental-abrupt_imbalanced,0.2,0.244025048,Uniform
+29,INSECTS incremental-abrupt_imbalanced,0.2,0.279747899,Non_Uniform
+29,INSECTS incremental-abrupt_imbalanced,0.5,0.237086753,Uniform
+29,INSECTS incremental-abrupt_imbalanced,0.5,0.347494113,Non_Uniform
+29,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Uniform
+29,INSECTS incremental-abrupt_imbalanced,1,0.388659324,Non_Uniform
+29,Keystroke,0.05,0.522383044,Uniform
+29,Keystroke,0.05,0.606541184,Non_Uniform
+29,Keystroke,0.1,0.703439806,Uniform
+29,Keystroke,0.1,0.674557865,Non_Uniform
+29,Keystroke,0.2,0.794458979,Uniform
+29,Keystroke,0.2,0.79026182,Non_Uniform
+29,Keystroke,0.5,0.684794435,Uniform
+29,Keystroke,0.5,0.923776813,Non_Uniform
+29,Keystroke,1,0.940603409,Uniform
+29,Keystroke,1,0.940603409,Non_Uniform
+29,NOAA,0.05,0.54789658,Uniform
+29,NOAA,0.05,0.557747241,Non_Uniform
+29,NOAA,0.1,0.568087838,Uniform
+29,NOAA,0.1,0.578262012,Non_Uniform
+29,NOAA,0.2,0.564626106,Uniform
+29,NOAA,0.2,0.617979114,Non_Uniform
+29,NOAA,0.5,0.664807861,Uniform
+29,NOAA,0.5,0.664081793,Non_Uniform
+29,NOAA,1,0.673206388,Uniform
+29,NOAA,1,0.673206388,Non_Uniform
+29,Ozone,0.05,0.484177342,Uniform
+29,Ozone,0.05,0.512630315,Non_Uniform
+29,Ozone,0.1,0.529920032,Uniform
+29,Ozone,0.1,0.490164649,Non_Uniform
+29,Ozone,0.2,0.530672797,Uniform
+29,Ozone,0.2,0.470722732,Non_Uniform
+29,Ozone,0.5,0.485630903,Uniform
+29,Ozone,0.5,0.508926432,Non_Uniform
+29,Ozone,1,0.474968935,Uniform
+29,Ozone,1,0.474968935,Non_Uniform

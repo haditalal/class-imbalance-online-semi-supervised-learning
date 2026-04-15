@@ -1,0 +1,51 @@
+Dataset,Label_Ratio,Labeling Strategy,GMean
+INSECTS incremental-abrupt_imbalanced,0.05,Non_Uniform,0.25278791850000004
+INSECTS incremental-abrupt_imbalanced,0.05,Uniform,0.2489214925
+INSECTS incremental-abrupt_imbalanced,0.1,Non_Uniform,0.2543215765
+INSECTS incremental-abrupt_imbalanced,0.1,Uniform,0.253502868
+INSECTS incremental-abrupt_imbalanced,0.2,Non_Uniform,0.2716494705
+INSECTS incremental-abrupt_imbalanced,0.2,Uniform,0.245814772
+INSECTS incremental-abrupt_imbalanced,0.5,Non_Uniform,0.34533088050000005
+INSECTS incremental-abrupt_imbalanced,0.5,Uniform,0.237086753
+INSECTS incremental-abrupt_imbalanced,1.0,Non_Uniform,0.388659324
+INSECTS incremental-abrupt_imbalanced,1.0,Uniform,0.388659324
+INSECTS incremental_imbalanced,0.05,Non_Uniform,0.249527506
+INSECTS incremental_imbalanced,0.05,Uniform,0.253728737
+INSECTS incremental_imbalanced,0.1,Non_Uniform,0.2492122175
+INSECTS incremental_imbalanced,0.1,Uniform,0.24917083550000002
+INSECTS incremental_imbalanced,0.2,Non_Uniform,0.2707195365
+INSECTS incremental_imbalanced,0.2,Uniform,0.201822281
+INSECTS incremental_imbalanced,0.5,Non_Uniform,0.350605239
+INSECTS incremental_imbalanced,0.5,Uniform,0.140975782
+INSECTS incremental_imbalanced,1.0,Non_Uniform,0.397326651
+INSECTS incremental_imbalanced,1.0,Uniform,0.397326651
+Keystroke,0.05,Non_Uniform,0.5765328805
+Keystroke,0.05,Uniform,0.556665575
+Keystroke,0.1,Non_Uniform,0.6581642445
+Keystroke,0.1,Uniform,0.677857726
+Keystroke,0.2,Non_Uniform,0.780331996
+Keystroke,0.2,Uniform,0.759429881
+Keystroke,0.5,Non_Uniform,0.9201108105
+Keystroke,0.5,Uniform,0.684794435
+Keystroke,1.0,Non_Uniform,0.940603409
+Keystroke,1.0,Uniform,0.940603409
+NOAA,0.05,Non_Uniform,0.545700445
+NOAA,0.05,Uniform,0.5283255175
+NOAA,0.1,Non_Uniform,0.5779320035
+NOAA,0.1,Uniform,0.566683737
+NOAA,0.2,Non_Uniform,0.6230168405000001
+NOAA,0.2,Uniform,0.5755423049999999
+NOAA,0.5,Non_Uniform,0.6634406479999999
+NOAA,0.5,Uniform,0.65697857
+NOAA,1.0,Non_Uniform,0.673206388
+NOAA,1.0,Uniform,0.673206388
+Ozone,0.05,Non_Uniform,0.421519137
+Ozone,0.05,Uniform,0.40700035999999995
+Ozone,0.1,Non_Uniform,0.44811700899999996
+Ozone,0.1,Uniform,0.450062062
+Ozone,0.2,Non_Uniform,0.49108438249999997
+Ozone,0.2,Uniform,0.529621612
+Ozone,0.5,Non_Uniform,0.502752595
+Ozone,0.5,Uniform,0.521537607
+Ozone,1.0,Non_Uniform,0.474968935
+Ozone,1.0,Uniform,0.474968935

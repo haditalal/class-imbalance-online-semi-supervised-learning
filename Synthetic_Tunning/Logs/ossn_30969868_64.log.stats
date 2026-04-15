@@ -1,0 +1,18 @@
++--------------------------------------------------------------------------+
+| Job on the BlueBEAR cluster:
+| Starting at Thu Oct 30 21:51:46 2025 for hxa568(917820)
+| Identity jobid 30969981 jobname ossn_array
+| Array Identity 30969868_64
+| Running against project minkull-spdisc and in partition sapphire-shared
+| Requested cpu=16,mem=32G,node=1,billing=16 - 3-00:00:00 walltime
+| Allocated cpu=16,mem=32G,node=1,billing=16
+| Assigned to nodes bear-pg0210u39a
+| Command /rds/projects/m/minkull-spdisc-hadi/PythonCode/Tuning_30_ossn/run_tuning_best.slurm
+| WorkDir /rds/projects/m/minkull-spdisc-hadi/PythonCode/Tuning_30_ossn
++--------------------------------------------------------------------------+
++--------------------------------------------------------------------------+
+| Finished at Fri Oct 31 02:18:44 2025 for hxa568(917820) on the BlueBEAR Cluster
+| Required (2-20:40:23 cputime, 632004K memory used) - 04:27:01 walltime
+| JobState COMPLETING - Reason None
+| Exitcode 0:0
++--------------------------------------------------------------------------+

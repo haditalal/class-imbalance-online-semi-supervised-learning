@@ -1,0 +1,30 @@
++--------------------------------------------------------------------------+
+| Job on the BlueBEAR cluster:
+| Starting at Mon Jan 26 15:49:33 2026 for hxa568(917820)
+| Identity jobid 36381480 jobname osnn_real_30runs_fast
+| Array Identity 36381442_17
+| Running against project minkull-spdisc and in partition sapphire-shared
+| Requested cpu=16,mem=32G,node=1,billing=16 - 2-00:00:00 walltime
+| Allocated cpu=16,mem=32G,node=1,billing=16
+| Assigned to nodes bear-pg0210u37b
+| Command /rds/projects/m/minkull-spdisc-hadi/PythonCode/real_world_exp/run_real_world.slurm
+| WorkDir /rds/projects/m/minkull-spdisc-hadi/PythonCode/real_world_exp
++--------------------------------------------------------------------------+
++--------------------------------------------------------------------------+
+| Finished at Mon Jan 26 17:46:49 2026 for hxa568(917820) on the BlueBEAR Cluster
+| Required (1-05:56:46 cputime, 3998764K memory used) - 01:57:19 walltime
+| JobState COMPLETING - Reason None
+| Exitcode 0:0
++--------------------------------------------------------------------------+
+Job efficiency stats from seff for Job ID: 36381480
+Array Job ID: 36381442_17
+Cluster: paddington
+User/Group: hxa568/users
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 1-05:56:46
+CPU Efficiency: 95.72% of 1-07:17:04 core-walltime
+Job Wall-clock time: 01:57:19
+Memory Utilized: 3.81 GB
+Memory Efficiency: 11.92% of 32.00 GB

@@ -1,0 +1,122 @@
+Running OSNN real-world run 17 / 30
+[RUN] id=17 seed=12362
+[CPU] workers=8
+[LOAD] INSECTS incremental_imbalanced n=452043 p=33 minority_orig=5
+[LOAD] INSECTS incremental-abrupt_imbalanced n=452043 p=33 minority_orig=5
+[LOAD] Keystroke n=1599 p=10 minority_orig=3
+[LOAD] NOAA n=18158 p=8 minority_orig=2
+[LOAD] Ozone n=2533 p=72 minority_orig=2
+[LOAD] done in 82.92s
+⏱️ Total Time                : 583.5069 ثانية
+⏱️ Total Time                : 528.8713 ثانية
+⏱️ Total Time                : 574.7405 ثانية
+⏱️ Total Time                : 576.3834 ثانية
+⏱️ Total Time                : 581.0377 ثانية
+⏱️ Total Time                : 575.4586 ثانية
+⏱️ Total Time                : 591.3416 ثانية
+⏱️ Total Time                : 582.1725 ثانية
+⏱️ Total Time                : 578.0619 ثانية
+⏱️ Total Time                : 494.4304 ثانية
+[RUN 17] completed 10/100
+⏱️ Total Time                : 495.6480 ثانية
+⏱️ Total Time                : 575.8672 ثانية
+⏱️ Total Time                : 575.3783 ثانية
+⏱️ Total Time                : 1.7253 ثانية
+⏱️ Total Time                : 573.8763 ثانية
+⏱️ Total Time                : 1.7128 ثانية
+⏱️ Total Time                : 1.7266 ثانية
+⏱️ Total Time                : 1.7415 ثانية
+⏱️ Total Time                : 1.7464 ثانية
+⏱️ Total Time                : 1.7588 ثانية
+[RUN 17] completed 20/100
+⏱️ Total Time                : 1.6007 ثانية
+⏱️ Total Time                : 1.7981 ثانية
+⏱️ Total Time                : 1.5399 ثانية
+⏱️ Total Time                : 1.5385 ثانية
+⏱️ Total Time                : 577.9763 ثانية
+⏱️ Total Time                : 19.6110 ثانية
+⏱️ Total Time                : 19.2233 ثانية
+⏱️ Total Time                : 19.6699 ثانية
+⏱️ Total Time                : 19.7213 ثانية
+⏱️ Total Time                : 19.9559 ثانية
+[RUN 17] completed 30/100
+⏱️ Total Time                : 20.0207 ثانية
+⏱️ Total Time                : 576.3249 ثانية
+⏱️ Total Time                : 20.2672 ثانية
+⏱️ Total Time                : 21.0788 ثانية
+⏱️ Total Time                : 3.6446 ثانية
+⏱️ Total Time                : 3.6154 ثانية
+⏱️ Total Time                : 3.6764 ثانية
+⏱️ Total Time                : 3.6665 ثانية
+⏱️ Total Time                : 3.6443 ثانية
+⏱️ Total Time                : 3.6926 ثانية
+[RUN 17] completed 40/100
+⏱️ Total Time                : 3.6838 ثانية
+⏱️ Total Time                : 3.6859 ثانية
+⏱️ Total Time                : 3.0946 ثانية
+⏱️ Total Time                : 17.5331 ثانية
+⏱️ Total Time                : 17.4578 ثانية
+⏱️ Total Time                : 3.1165 ثانية
+⏱️ Total Time                : 521.7745 ثانية
+⏱️ Total Time                : 489.8280 ثانية
+⏱️ Total Time                : 484.3500 ثانية
+⏱️ Total Time                : 588.6696 ثانية
+[RUN 17] completed 50/100
+⏱️ Total Time                : 575.1840 ثانية
+⏱️ Total Time                : 580.5980 ثانية
+⏱️ Total Time                : 588.4346 ثانية
+⏱️ Total Time                : 585.9658 ثانية
+⏱️ Total Time                : 531.6710 ثانية
+⏱️ Total Time                : 580.4714 ثانية
+⏱️ Total Time                : 588.3787 ثانية
+⏱️ Total Time                : 590.6787 ثانية
+⏱️ Total Time                : 494.2611 ثانية
+⏱️ Total Time                : 496.4135 ثانية
+[RUN 17] completed 60/100
+⏱️ Total Time                : 582.9810 ثانية
+⏱️ Total Time                : 578.5008 ثانية
+⏱️ Total Time                : 579.1159 ثانية
+⏱️ Total Time                : 1.7243 ثانية
+⏱️ Total Time                : 1.7111 ثانية
+⏱️ Total Time                : 1.7281 ثانية
+⏱️ Total Time                : 1.7331 ثانية
+⏱️ Total Time                : 1.7466 ثانية
+⏱️ Total Time                : 1.6974 ثانية
+⏱️ Total Time                : 1.6014 ثانية
+[RUN 17] completed 70/100
+⏱️ Total Time                : 1.7946 ثانية
+⏱️ Total Time                : 1.5400 ثانية
+⏱️ Total Time                : 1.5424 ثانية
+⏱️ Total Time                : 19.4880 ثانية
+⏱️ Total Time                : 575.3139 ثانية
+⏱️ Total Time                : 579.2528 ثانية
+⏱️ Total Time                : 19.4453 ثانية
+⏱️ Total Time                : 19.6151 ثانية
+⏱️ Total Time                : 19.4853 ثانية
+⏱️ Total Time                : 19.6105 ثانية
+[RUN 17] completed 80/100
+⏱️ Total Time                : 19.6271 ثانية
+⏱️ Total Time                : 20.9717 ثانية
+⏱️ Total Time                : 20.4481 ثانية
+⏱️ Total Time                : 17.4216 ثانية
+⏱️ Total Time                : 3.6415 ثانية
+⏱️ Total Time                : 3.6020 ثانية
+⏱️ Total Time                : 3.6683 ثانية
+⏱️ Total Time                : 3.6457 ثانية
+⏱️ Total Time                : 3.6400 ثانية
+⏱️ Total Time                : 3.6614 ثانية
+[RUN 17] completed 90/100
+⏱️ Total Time                : 17.5043 ثانية
+⏱️ Total Time                : 3.6808 ثانية
+⏱️ Total Time                : 3.6475 ثانية
+⏱️ Total Time                : 3.0712 ثانية
+⏱️ Total Time                : 486.6742 ثانية
+⏱️ Total Time                : 3.0804 ثانية
+⏱️ Total Time                : 527.0661 ثانية
+⏱️ Total Time                : 584.4227 ثانية
+⏱️ Total Time                : 485.6003 ثانية
+⏱️ Total Time                : 590.5905 ثانية
+[RUN 17] completed 100/100
+
+[SAVE] Run 17 saved: results_runs_osnn/run_17.parquet
+[DONE] Wall time: 6910.98 sec

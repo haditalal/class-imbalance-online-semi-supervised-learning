@@ -1,0 +1,751 @@
+Run,Dataset,Label_Ratio,GMean
+0,INSECTS incremental_imbalanced,0.05,0.242934383
+0,INSECTS incremental_imbalanced,0.1,0.251863716
+0,INSECTS incremental_imbalanced,0.2,0.285039866
+0,INSECTS incremental_imbalanced,0.5,0.359279437
+0,INSECTS incremental_imbalanced,1,0.397326651
+0,INSECTS incremental-abrupt_imbalanced,0.05,0.236157961
+0,INSECTS incremental-abrupt_imbalanced,0.1,0.257468998
+0,INSECTS incremental-abrupt_imbalanced,0.2,0.283083901
+0,INSECTS incremental-abrupt_imbalanced,0.5,0.355563851
+0,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+0,Keystroke,0.05,0.59327271
+0,Keystroke,0.1,0.637024126
+0,Keystroke,0.2,0.778310969
+0,Keystroke,0.5,0.921778888
+0,Keystroke,1,0.940603409
+0,NOAA,0.05,0.528254552
+0,NOAA,0.1,0.577678061
+0,NOAA,0.2,0.624490473
+0,NOAA,0.5,0.670338075
+0,NOAA,1,0.673206388
+0,Ozone,0.05,0.421495696
+0,Ozone,0.1,0.394176624
+0,Ozone,0.2,0.440245242
+0,Ozone,0.5,0.51948744
+0,Ozone,1,0.474968935
+1,INSECTS incremental_imbalanced,0.05,0.258194512
+1,INSECTS incremental_imbalanced,0.1,0.251797873
+1,INSECTS incremental_imbalanced,0.2,0.25518234
+1,INSECTS incremental_imbalanced,0.5,0.351627738
+1,INSECTS incremental_imbalanced,1,0.397326651
+1,INSECTS incremental-abrupt_imbalanced,0.05,0.252310474
+1,INSECTS incremental-abrupt_imbalanced,0.1,0.257100931
+1,INSECTS incremental-abrupt_imbalanced,0.2,0.274796293
+1,INSECTS incremental-abrupt_imbalanced,0.5,0.345941502
+1,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+1,Keystroke,0.05,0.612248899
+1,Keystroke,0.1,0.701325352
+1,Keystroke,0.2,0.766948155
+1,Keystroke,0.5,0.90841612
+1,Keystroke,1,0.940603409
+1,NOAA,0.05,0.547795416
+1,NOAA,0.1,0.589658453
+1,NOAA,0.2,0.627770169
+1,NOAA,0.5,0.660367719
+1,NOAA,1,0.673206388
+1,Ozone,0.05,0.380077347
+1,Ozone,0.1,0.492187061
+1,Ozone,0.2,0.434882861
+1,Ozone,0.5,0.547587842
+1,Ozone,1,0.474968935
+2,INSECTS incremental_imbalanced,0.05,0.250711824
+2,INSECTS incremental_imbalanced,0.1,0.262608305
+2,INSECTS incremental_imbalanced,0.2,0.256454695
+2,INSECTS incremental_imbalanced,0.5,0.357925847
+2,INSECTS incremental_imbalanced,1,0.397326651
+2,INSECTS incremental-abrupt_imbalanced,0.05,0.259696735
+2,INSECTS incremental-abrupt_imbalanced,0.1,0.254013209
+2,INSECTS incremental-abrupt_imbalanced,0.2,0.270482332
+2,INSECTS incremental-abrupt_imbalanced,0.5,0.346305037
+2,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+2,Keystroke,0.05,0.56019863
+2,Keystroke,0.1,0.662288272
+2,Keystroke,0.2,0.795295227
+2,Keystroke,0.5,0.908294157
+2,Keystroke,1,0.940603409
+2,NOAA,0.05,0.546718739
+2,NOAA,0.1,0.57007606
+2,NOAA,0.2,0.628026454
+2,NOAA,0.5,0.668470284
+2,NOAA,1,0.673206388
+2,Ozone,0.05,0.436913905
+2,Ozone,0.1,0.538759114
+2,Ozone,0.2,0.53285796
+2,Ozone,0.5,0.452147303
+2,Ozone,1,0.474968935
+3,INSECTS incremental_imbalanced,0.05,0.263803432
+3,INSECTS incremental_imbalanced,0.1,0.250172738
+3,INSECTS incremental_imbalanced,0.2,0.271816336
+3,INSECTS incremental_imbalanced,0.5,0.341307186
+3,INSECTS incremental_imbalanced,1,0.397326651
+3,INSECTS incremental-abrupt_imbalanced,0.05,0.238655601
+3,INSECTS incremental-abrupt_imbalanced,0.1,0.259009632
+3,INSECTS incremental-abrupt_imbalanced,0.2,0.269915542
+3,INSECTS incremental-abrupt_imbalanced,0.5,0.343015586
+3,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+3,Keystroke,0.05,0.588161238
+3,Keystroke,0.1,0.653080835
+3,Keystroke,0.2,0.812379834
+3,Keystroke,0.5,0.934939509
+3,Keystroke,1,0.940603409
+3,NOAA,0.05,0.52303643
+3,NOAA,0.1,0.572187814
+3,NOAA,0.2,0.61928563
+3,NOAA,0.5,0.66363688
+3,NOAA,1,0.673206388
+3,Ozone,0.05,0.482077607
+3,Ozone,0.1,0.49049782
+3,Ozone,0.2,0.487955694
+3,Ozone,0.5,0.524881541
+3,Ozone,1,0.474968935
+4,INSECTS incremental_imbalanced,0.05,0.241839066
+4,INSECTS incremental_imbalanced,0.1,0.262404183
+4,INSECTS incremental_imbalanced,0.2,0.268948173
+4,INSECTS incremental_imbalanced,0.5,0.35389686
+4,INSECTS incremental_imbalanced,1,0.397326651
+4,INSECTS incremental-abrupt_imbalanced,0.05,0.251877583
+4,INSECTS incremental-abrupt_imbalanced,0.1,0.261035944
+4,INSECTS incremental-abrupt_imbalanced,0.2,0.269209632
+4,INSECTS incremental-abrupt_imbalanced,0.5,0.343706388
+4,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+4,Keystroke,0.05,0.520282052
+4,Keystroke,0.1,0.681957416
+4,Keystroke,0.2,0.778794242
+4,Keystroke,0.5,0.924107119
+4,Keystroke,1,0.940603409
+4,NOAA,0.05,0.549819551
+4,NOAA,0.1,0.578400211
+4,NOAA,0.2,0.608368351
+4,NOAA,0.5,0.657823484
+4,NOAA,1,0.673206388
+4,Ozone,0.05,0.304615978
+4,Ozone,0.1,0.493646394
+4,Ozone,0.2,0.524766068
+4,Ozone,0.5,0.47167336
+4,Ozone,1,0.474968935
+5,INSECTS incremental_imbalanced,0.05,0.252895613
+5,INSECTS incremental_imbalanced,0.1,0.251342382
+5,INSECTS incremental_imbalanced,0.2,0.264529632
+5,INSECTS incremental_imbalanced,0.5,0.346650301
+5,INSECTS incremental_imbalanced,1,0.397326651
+5,INSECTS incremental-abrupt_imbalanced,0.05,0.256837837
+5,INSECTS incremental-abrupt_imbalanced,0.1,0.254176069
+5,INSECTS incremental-abrupt_imbalanced,0.2,0.270830974
+5,INSECTS incremental-abrupt_imbalanced,0.5,0.344813338
+5,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+5,Keystroke,0.05,0.589997541
+5,Keystroke,0.1,0.620890527
+5,Keystroke,0.2,0.772366336
+5,Keystroke,0.5,0.913705754
+5,Keystroke,1,0.940603409
+5,NOAA,0.05,0.544525938
+5,NOAA,0.1,0.574193143
+5,NOAA,0.2,0.622771661
+5,NOAA,0.5,0.667582244
+5,NOAA,1,0.673206388
+5,Ozone,0.05,0.353236511
+5,Ozone,0.1,0.430155468
+5,Ozone,0.2,0.522103146
+5,Ozone,0.5,0.524996989
+5,Ozone,1,0.474968935
+6,INSECTS incremental_imbalanced,0.05,0.25230274
+6,INSECTS incremental_imbalanced,0.1,0.248251697
+6,INSECTS incremental_imbalanced,0.2,0.254961198
+6,INSECTS incremental_imbalanced,0.5,0.347937391
+6,INSECTS incremental_imbalanced,1,0.397326651
+6,INSECTS incremental-abrupt_imbalanced,0.05,0.257426363
+6,INSECTS incremental-abrupt_imbalanced,0.1,0.248427169
+6,INSECTS incremental-abrupt_imbalanced,0.2,0.27392352
+6,INSECTS incremental-abrupt_imbalanced,0.5,0.34272526
+6,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+6,Keystroke,0.05,0.563288991
+6,Keystroke,0.1,0.648722985
+6,Keystroke,0.2,0.758870927
+6,Keystroke,0.5,0.928235031
+6,Keystroke,1,0.940603409
+6,NOAA,0.05,0.527035728
+6,NOAA,0.1,0.58076393
+6,NOAA,0.2,0.617389563
+6,NOAA,0.5,0.665489682
+6,NOAA,1,0.673206388
+6,Ozone,0.05,0.274389941
+6,Ozone,0.1,0.452857705
+6,Ozone,0.2,0.501320978
+6,Ozone,0.5,0.525689141
+6,Ozone,1,0.474968935
+7,INSECTS incremental_imbalanced,0.05,0.244621361
+7,INSECTS incremental_imbalanced,0.1,0.246273941
+7,INSECTS incremental_imbalanced,0.2,0.274685661
+7,INSECTS incremental_imbalanced,0.5,0.339862602
+7,INSECTS incremental_imbalanced,1,0.397326651
+7,INSECTS incremental-abrupt_imbalanced,0.05,0.239798184
+7,INSECTS incremental-abrupt_imbalanced,0.1,0.256193207
+7,INSECTS incremental-abrupt_imbalanced,0.2,0.279147133
+7,INSECTS incremental-abrupt_imbalanced,0.5,0.353344014
+7,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+7,Keystroke,0.05,0.541260967
+7,Keystroke,0.1,0.683182373
+7,Keystroke,0.2,0.789351392
+7,Keystroke,0.5,0.919260594
+7,Keystroke,1,0.940603409
+7,NOAA,0.05,0.537127183
+7,NOAA,0.1,0.577075604
+7,NOAA,0.2,0.630285891
+7,NOAA,0.5,0.66742029
+7,NOAA,1,0.673206388
+7,Ozone,0.05,0.430792047
+7,Ozone,0.1,0.505836509
+7,Ozone,0.2,0.436913905
+7,Ozone,0.5,0.495316918
+7,Ozone,1,0.474968935
+8,INSECTS incremental_imbalanced,0.05,0.248841589
+8,INSECTS incremental_imbalanced,0.1,0.250865499
+8,INSECTS incremental_imbalanced,0.2,0.27139265
+8,INSECTS incremental_imbalanced,0.5,0.353386544
+8,INSECTS incremental_imbalanced,1,0.397326651
+8,INSECTS incremental-abrupt_imbalanced,0.05,0.253693052
+8,INSECTS incremental-abrupt_imbalanced,0.1,0.252956263
+8,INSECTS incremental-abrupt_imbalanced,0.2,0.262074709
+8,INSECTS incremental-abrupt_imbalanced,0.5,0.34104203
+8,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+8,Keystroke,0.05,0.543876877
+8,Keystroke,0.1,0.670718413
+8,Keystroke,0.2,0.781840013
+8,Keystroke,0.5,0.92117095
+8,Keystroke,1,0.940603409
+8,NOAA,0.05,0.552333757
+8,NOAA,0.1,0.574482305
+8,NOAA,0.2,0.618447058
+8,NOAA,0.5,0.667280663
+8,NOAA,1,0.673206388
+8,Ozone,0.05,0.374852416
+8,Ozone,0.1,0.399732467
+8,Ozone,0.2,0.49888683
+8,Ozone,0.5,0.496079699
+8,Ozone,1,0.474968935
+9,INSECTS incremental_imbalanced,0.05,0.249209698
+9,INSECTS incremental_imbalanced,0.1,0.245513636
+9,INSECTS incremental_imbalanced,0.2,0.2628174
+9,INSECTS incremental_imbalanced,0.5,0.353304714
+9,INSECTS incremental_imbalanced,1,0.397326651
+9,INSECTS incremental-abrupt_imbalanced,0.05,0.246779748
+9,INSECTS incremental-abrupt_imbalanced,0.1,0.251887415
+9,INSECTS incremental-abrupt_imbalanced,0.2,0.270840037
+9,INSECTS incremental-abrupt_imbalanced,0.5,0.344653479
+9,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+9,Keystroke,0.05,0.569867077
+9,Keystroke,0.1,0.609237058
+9,Keystroke,0.2,0.789391113
+9,Keystroke,0.5,0.918363107
+9,Keystroke,1,0.940603409
+9,NOAA,0.05,0.545670153
+9,NOAA,0.1,0.584757526
+9,NOAA,0.2,0.629931717
+9,NOAA,0.5,0.667585473
+9,NOAA,1,0.673206388
+9,Ozone,0.05,0.350642328
+9,Ozone,0.1,0.405069061
+9,Ozone,0.2,0.45303804
+9,Ozone,0.5,0.460954359
+9,Ozone,1,0.474968935
+10,INSECTS incremental_imbalanced,0.05,0.259229751
+10,INSECTS incremental_imbalanced,0.1,0.245981454
+10,INSECTS incremental_imbalanced,0.2,0.261899764
+10,INSECTS incremental_imbalanced,0.5,0.3487794
+10,INSECTS incremental_imbalanced,1,0.397326651
+10,INSECTS incremental-abrupt_imbalanced,0.05,0.249365001
+10,INSECTS incremental-abrupt_imbalanced,0.1,0.266200698
+10,INSECTS incremental-abrupt_imbalanced,0.2,0.277383573
+10,INSECTS incremental-abrupt_imbalanced,0.5,0.345892777
+10,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+10,Keystroke,0.05,0.548614283
+10,Keystroke,0.1,0.675411035
+10,Keystroke,0.2,0.789573803
+10,Keystroke,0.5,0.910007043
+10,Keystroke,1,0.940603409
+10,NOAA,0.05,0.530071872
+10,NOAA,0.1,0.589291467
+10,NOAA,0.2,0.617074442
+10,NOAA,0.5,0.659853295
+10,NOAA,1,0.673206388
+10,Ozone,0.05,0.446317139
+10,Ozone,0.1,0.409558537
+10,Ozone,0.2,0.547780282
+10,Ozone,0.5,0.473426991
+10,Ozone,1,0.474968935
+11,INSECTS incremental_imbalanced,0.05,0.248077401
+11,INSECTS incremental_imbalanced,0.1,0.247947746
+11,INSECTS incremental_imbalanced,0.2,0.269894347
+11,INSECTS incremental_imbalanced,0.5,0.359527902
+11,INSECTS incremental_imbalanced,1,0.397326651
+11,INSECTS incremental-abrupt_imbalanced,0.05,0.249901536
+11,INSECTS incremental-abrupt_imbalanced,0.1,0.254606006
+11,INSECTS incremental-abrupt_imbalanced,0.2,0.268547959
+11,INSECTS incremental-abrupt_imbalanced,0.5,0.338877129
+11,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+11,Keystroke,0.05,0.620299406
+11,Keystroke,0.1,0.665703912
+11,Keystroke,0.2,0.765812154
+11,Keystroke,0.5,0.925149297
+11,Keystroke,1,0.940603409
+11,NOAA,0.05,0.544333078
+11,NOAA,0.1,0.578017987
+11,NOAA,0.2,0.627033204
+11,NOAA,0.5,0.663828585
+11,NOAA,1,0.673206388
+11,Ozone,0.05,0.285975963
+11,Ozone,0.1,0.392639515
+11,Ozone,0.2,0.482659357
+11,Ozone,0.5,0.510593408
+11,Ozone,1,0.474968935
+12,INSECTS incremental_imbalanced,0.05,0.246589543
+12,INSECTS incremental_imbalanced,0.1,0.246995482
+12,INSECTS incremental_imbalanced,0.2,0.272298545
+12,INSECTS incremental_imbalanced,0.5,0.348912467
+12,INSECTS incremental_imbalanced,1,0.397326651
+12,INSECTS incremental-abrupt_imbalanced,0.05,0.260638767
+12,INSECTS incremental-abrupt_imbalanced,0.1,0.254467084
+12,INSECTS incremental-abrupt_imbalanced,0.2,0.268136097
+12,INSECTS incremental-abrupt_imbalanced,0.5,0.339041933
+12,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+12,Keystroke,0.05,0.571800523
+12,Keystroke,0.1,0.692881446
+12,Keystroke,0.2,0.781783866
+12,Keystroke,0.5,0.914452387
+12,Keystroke,1,0.940603409
+12,NOAA,0.05,0.552016382
+12,NOAA,0.1,0.573816131
+12,NOAA,0.2,0.625463337
+12,NOAA,0.5,0.663244416
+12,NOAA,1,0.673206388
+12,Ozone,0.05,0.37527393
+12,Ozone,0.1,0.440935978
+12,Ozone,0.2,0.495659916
+12,Ozone,0.5,0.482233356
+12,Ozone,1,0.474968935
+13,INSECTS incremental_imbalanced,0.05,0.240469875
+13,INSECTS incremental_imbalanced,0.1,0.25964556
+13,INSECTS incremental_imbalanced,0.2,0.259698518
+13,INSECTS incremental_imbalanced,0.5,0.348709159
+13,INSECTS incremental_imbalanced,1,0.397326651
+13,INSECTS incremental-abrupt_imbalanced,0.05,0.254804587
+13,INSECTS incremental-abrupt_imbalanced,0.1,0.248337646
+13,INSECTS incremental-abrupt_imbalanced,0.2,0.274110233
+13,INSECTS incremental-abrupt_imbalanced,0.5,0.347697341
+13,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+13,Keystroke,0.05,0.517639783
+13,Keystroke,0.1,0.642807496
+13,Keystroke,0.2,0.79706344
+13,Keystroke,0.5,0.925166242
+13,Keystroke,1,0.940603409
+13,NOAA,0.05,0.553217039
+13,NOAA,0.1,0.562205716
+13,NOAA,0.2,0.61347139
+13,NOAA,0.5,0.666329829
+13,NOAA,1,0.673206388
+13,Ozone,0.05,0.387604362
+13,Ozone,0.1,0.413782882
+13,Ozone,0.2,0.50658345
+13,Ozone,0.5,0.501651993
+13,Ozone,1,0.474968935
+14,INSECTS incremental_imbalanced,0.05,0.246756444
+14,INSECTS incremental_imbalanced,0.1,0.247203678
+14,INSECTS incremental_imbalanced,0.2,0.27540536
+14,INSECTS incremental_imbalanced,0.5,0.345434264
+14,INSECTS incremental_imbalanced,1,0.397326651
+14,INSECTS incremental-abrupt_imbalanced,0.05,0.250863706
+14,INSECTS incremental-abrupt_imbalanced,0.1,0.255008244
+14,INSECTS incremental-abrupt_imbalanced,0.2,0.28022644
+14,INSECTS incremental-abrupt_imbalanced,0.5,0.349967472
+14,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+14,Keystroke,0.05,0.541249381
+14,Keystroke,0.1,0.65756399
+14,Keystroke,0.2,0.776649443
+14,Keystroke,0.5,0.911721295
+14,Keystroke,1,0.940603409
+14,NOAA,0.05,0.531137209
+14,NOAA,0.1,0.579061051
+14,NOAA,0.2,0.620274879
+14,NOAA,0.5,0.666456974
+14,NOAA,1,0.673206388
+14,Ozone,0.05,0.437670107
+14,Ozone,0.1,0.448366907
+14,Ozone,0.2,0.466790804
+14,Ozone,0.5,0.460353766
+14,Ozone,1,0.474968935
+15,INSECTS incremental_imbalanced,0.05,0.250531706
+15,INSECTS incremental_imbalanced,0.1,0.254636777
+15,INSECTS incremental_imbalanced,0.2,0.271485192
+15,INSECTS incremental_imbalanced,0.5,0.351124392
+15,INSECTS incremental_imbalanced,1,0.397326651
+15,INSECTS incremental-abrupt_imbalanced,0.05,0.256300506
+15,INSECTS incremental-abrupt_imbalanced,0.1,0.250391336
+15,INSECTS incremental-abrupt_imbalanced,0.2,0.277518964
+15,INSECTS incremental-abrupt_imbalanced,0.5,0.336935327
+15,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+15,Keystroke,0.05,0.644056609
+15,Keystroke,0.1,0.655137229
+15,Keystroke,0.2,0.795405609
+15,Keystroke,0.5,0.925166242
+15,Keystroke,1,0.940603409
+15,NOAA,0.05,0.528967895
+15,NOAA,0.1,0.574453039
+15,NOAA,0.2,0.62244167
+15,NOAA,0.5,0.659459807
+15,NOAA,1,0.673206388
+15,Ozone,0.05,0.444151141
+15,Ozone,0.1,0.537755587
+15,Ozone,0.2,0.467628295
+15,Ozone,0.5,0.453433361
+15,Ozone,1,0.474968935
+16,INSECTS incremental_imbalanced,0.05,0.253309001
+16,INSECTS incremental_imbalanced,0.1,0.245991205
+16,INSECTS incremental_imbalanced,0.2,0.272204451
+16,INSECTS incremental_imbalanced,0.5,0.35122011
+16,INSECTS incremental_imbalanced,1,0.397326651
+16,INSECTS incremental-abrupt_imbalanced,0.05,0.250653183
+16,INSECTS incremental-abrupt_imbalanced,0.1,0.252631854
+16,INSECTS incremental-abrupt_imbalanced,0.2,0.27367829
+16,INSECTS incremental-abrupt_imbalanced,0.5,0.342625501
+16,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+16,Keystroke,0.05,0.543088423
+16,Keystroke,0.1,0.679880685
+16,Keystroke,0.2,0.783850619
+16,Keystroke,0.5,0.929929169
+16,Keystroke,1,0.940603409
+16,NOAA,0.05,0.545730737
+16,NOAA,0.1,0.564243526
+16,NOAA,0.2,0.632313588
+16,NOAA,0.5,0.661538449
+16,NOAA,1,0.673206388
+16,Ozone,0.05,0.484481999
+16,Ozone,0.1,0.361789514
+16,Ozone,0.2,0.393828872
+16,Ozone,0.5,0.516271903
+16,Ozone,1,0.474968935
+17,INSECTS incremental_imbalanced,0.05,0.253660863
+17,INSECTS incremental_imbalanced,0.1,0.243984942
+17,INSECTS incremental_imbalanced,0.2,0.277655435
+17,INSECTS incremental_imbalanced,0.5,0.34165005
+17,INSECTS incremental_imbalanced,1,0.397326651
+17,INSECTS incremental-abrupt_imbalanced,0.05,0.249439953
+17,INSECTS incremental-abrupt_imbalanced,0.1,0.260255229
+17,INSECTS incremental-abrupt_imbalanced,0.2,0.270583873
+17,INSECTS incremental-abrupt_imbalanced,0.5,0.347127641
+17,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+17,Keystroke,0.05,0.581265238
+17,Keystroke,0.1,0.672391448
+17,Keystroke,0.2,0.777436288
+17,Keystroke,0.5,0.931875975
+17,Keystroke,1,0.940603409
+17,NOAA,0.05,0.550203815
+17,NOAA,0.1,0.588299515
+17,NOAA,0.2,0.623957386
+17,NOAA,0.5,0.651531741
+17,NOAA,1,0.673206388
+17,Ozone,0.05,0.546161679
+17,Ozone,0.1,0.440146476
+17,Ozone,0.2,0.569627645
+17,Ozone,0.5,0.564889762
+17,Ozone,1,0.474968935
+18,INSECTS incremental_imbalanced,0.05,0.242432868
+18,INSECTS incremental_imbalanced,0.1,0.2521071
+18,INSECTS incremental_imbalanced,0.2,0.251488972
+18,INSECTS incremental_imbalanced,0.5,0.33781914
+18,INSECTS incremental_imbalanced,1,0.397326651
+18,INSECTS incremental-abrupt_imbalanced,0.05,0.253265363
+18,INSECTS incremental-abrupt_imbalanced,0.1,0.253231894
+18,INSECTS incremental-abrupt_imbalanced,0.2,0.262755978
+18,INSECTS incremental-abrupt_imbalanced,0.5,0.34443981
+18,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+18,Keystroke,0.05,0.582219224
+18,Keystroke,0.1,0.678210715
+18,Keystroke,0.2,0.768285197
+18,Keystroke,0.5,0.926684425
+18,Keystroke,1,0.940603409
+18,NOAA,0.05,0.540479827
+18,NOAA,0.1,0.569533976
+18,NOAA,0.2,0.62326202
+18,NOAA,0.5,0.664209983
+18,NOAA,1,0.673206388
+18,Ozone,0.05,0.373331025
+18,Ozone,0.1,0.488729964
+18,Ozone,0.2,0.566312962
+18,Ozone,0.5,0.496079699
+18,Ozone,1,0.474968935
+19,INSECTS incremental_imbalanced,0.05,0.245581265
+19,INSECTS incremental_imbalanced,0.1,0.251041897
+19,INSECTS incremental_imbalanced,0.2,0.279476667
+19,INSECTS incremental_imbalanced,0.5,0.345465401
+19,INSECTS incremental_imbalanced,1,0.397326651
+19,INSECTS incremental-abrupt_imbalanced,0.05,0.269243075
+19,INSECTS incremental-abrupt_imbalanced,0.1,0.262959644
+19,INSECTS incremental-abrupt_imbalanced,0.2,0.281217956
+19,INSECTS incremental-abrupt_imbalanced,0.5,0.346877592
+19,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+19,Keystroke,0.05,0.583263043
+19,Keystroke,0.1,0.676244583
+19,Keystroke,0.2,0.774504103
+19,Keystroke,0.5,0.91234584
+19,Keystroke,1,0.940603409
+19,NOAA,0.05,0.557896128
+19,NOAA,0.1,0.581530453
+19,NOAA,0.2,0.615188572
+19,NOAA,0.5,0.659129677
+19,NOAA,1,0.673206388
+19,Ozone,0.05,0.49600002
+19,Ozone,0.1,0.471891176
+19,Ozone,0.2,0.487620785
+19,Ozone,0.5,0.469394231
+19,Ozone,1,0.474968935
+20,INSECTS incremental_imbalanced,0.05,0.252892948
+20,INSECTS incremental_imbalanced,0.1,0.246116264
+20,INSECTS incremental_imbalanced,0.2,0.278452392
+20,INSECTS incremental_imbalanced,0.5,0.340578474
+20,INSECTS incremental_imbalanced,1,0.397326651
+20,INSECTS incremental-abrupt_imbalanced,0.05,0.251981267
+20,INSECTS incremental-abrupt_imbalanced,0.1,0.249097083
+20,INSECTS incremental-abrupt_imbalanced,0.2,0.267314231
+20,INSECTS incremental-abrupt_imbalanced,0.5,0.348245111
+20,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+20,Keystroke,0.05,0.55334324
+20,Keystroke,0.1,0.623787471
+20,Keystroke,0.2,0.80786703
+20,Keystroke,0.5,0.910239011
+20,Keystroke,1,0.940603409
+20,NOAA,0.05,0.543387401
+20,NOAA,0.1,0.581195648
+20,NOAA,0.2,0.623751564
+20,NOAA,0.5,0.662588995
+20,NOAA,1,0.673206388
+20,Ozone,0.05,0.421542578
+20,Ozone,0.1,0.53285796
+20,Ozone,0.2,0.453898004
+20,Ozone,0.5,0.466883933
+20,Ozone,1,0.474968935
+21,INSECTS incremental_imbalanced,0.05,0.247869148
+21,INSECTS incremental_imbalanced,0.1,0.245418706
+21,INSECTS incremental_imbalanced,0.2,0.263368925
+21,INSECTS incremental_imbalanced,0.5,0.353210187
+21,INSECTS incremental_imbalanced,1,0.397326651
+21,INSECTS incremental-abrupt_imbalanced,0.05,0.257563111
+21,INSECTS incremental-abrupt_imbalanced,0.1,0.253346326
+21,INSECTS incremental-abrupt_imbalanced,0.2,0.279337721
+21,INSECTS incremental-abrupt_imbalanced,0.5,0.351191317
+21,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+21,Keystroke,0.05,0.566044997
+21,Keystroke,0.1,0.641047476
+21,Keystroke,0.2,0.770263342
+21,Keystroke,0.5,0.915021386
+21,Keystroke,1,0.940603409
+21,NOAA,0.05,0.546885452
+21,NOAA,0.1,0.559411775
+21,NOAA,0.2,0.617622468
+21,NOAA,0.5,0.670082238
+21,NOAA,1,0.673206388
+21,Ozone,0.05,0.401777249
+21,Ozone,0.1,0.468146393
+21,Ozone,0.2,0.501100181
+21,Ozone,0.5,0.566940734
+21,Ozone,1,0.474968935
+22,INSECTS incremental_imbalanced,0.05,0.255972465
+22,INSECTS incremental_imbalanced,0.1,0.256024003
+22,INSECTS incremental_imbalanced,0.2,0.277714464
+22,INSECTS incremental_imbalanced,0.5,0.352669459
+22,INSECTS incremental_imbalanced,1,0.397326651
+22,INSECTS incremental-abrupt_imbalanced,0.05,0.255806017
+22,INSECTS incremental-abrupt_imbalanced,0.1,0.25002658
+22,INSECTS incremental-abrupt_imbalanced,0.2,0.272041658
+22,INSECTS incremental-abrupt_imbalanced,0.5,0.348499298
+22,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+22,Keystroke,0.05,0.586094538
+22,Keystroke,0.1,0.635535938
+22,Keystroke,0.2,0.76382385
+22,Keystroke,0.5,0.900098924
+22,Keystroke,1,0.940603409
+22,NOAA,0.05,0.537162297
+22,NOAA,0.1,0.573783751
+22,NOAA,0.2,0.616565683
+22,NOAA,0.5,0.662186199
+22,NOAA,1,0.673206388
+22,Ozone,0.05,0.424681212
+22,Ozone,0.1,0.447867111
+22,Ozone,0.2,0.49855398
+22,Ozone,0.5,0.491924671
+22,Ozone,1,0.474968935
+23,INSECTS incremental_imbalanced,0.05,0.255298247
+23,INSECTS incremental_imbalanced,0.1,0.245729672
+23,INSECTS incremental_imbalanced,0.2,0.279134555
+23,INSECTS incremental_imbalanced,0.5,0.352079358
+23,INSECTS incremental_imbalanced,1,0.397326651
+23,INSECTS incremental-abrupt_imbalanced,0.05,0.248990013
+23,INSECTS incremental-abrupt_imbalanced,0.1,0.260342649
+23,INSECTS incremental-abrupt_imbalanced,0.2,0.274009862
+23,INSECTS incremental-abrupt_imbalanced,0.5,0.344570313
+23,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+23,Keystroke,0.05,0.588059941
+23,Keystroke,0.1,0.688139375
+23,Keystroke,0.2,0.79186311
+23,Keystroke,0.5,0.918158234
+23,Keystroke,1,0.940603409
+23,NOAA,0.05,0.540917668
+23,NOAA,0.1,0.571065121
+23,NOAA,0.2,0.635637641
+23,NOAA,0.5,0.660516271
+23,NOAA,1,0.673206388
+23,Ozone,0.05,0.329753472
+23,Ozone,0.1,0.438067267
+23,Ozone,0.2,0.488052882
+23,Ozone,0.5,0.520855115
+23,Ozone,1,0.474968935
+24,INSECTS incremental_imbalanced,0.05,0.259323844
+24,INSECTS incremental_imbalanced,0.1,0.258205043
+24,INSECTS incremental_imbalanced,0.2,0.282580867
+24,INSECTS incremental_imbalanced,0.5,0.343085918
+24,INSECTS incremental_imbalanced,1,0.397326651
+24,INSECTS incremental-abrupt_imbalanced,0.05,0.253412516
+24,INSECTS incremental-abrupt_imbalanced,0.1,0.24960339
+24,INSECTS incremental-abrupt_imbalanced,0.2,0.271257283
+24,INSECTS incremental-abrupt_imbalanced,0.5,0.340536233
+24,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+24,Keystroke,0.05,0.604863984
+24,Keystroke,0.1,0.630377539
+24,Keystroke,0.2,0.827994861
+24,Keystroke,0.5,0.927491605
+24,Keystroke,1,0.940603409
+24,NOAA,0.05,0.538226699
+24,NOAA,0.1,0.582634371
+24,NOAA,0.2,0.614831819
+24,NOAA,0.5,0.65297629
+24,NOAA,1,0.673206388
+24,Ozone,0.05,0.328841289
+24,Ozone,0.1,0.445838685
+24,Ozone,0.2,0.494115883
+24,Ozone,0.5,0.59998419
+24,Ozone,1,0.474968935
+25,INSECTS incremental_imbalanced,0.05,0.253797357
+25,INSECTS incremental_imbalanced,0.1,0.257636968
+25,INSECTS incremental_imbalanced,0.2,0.263594125
+25,INSECTS incremental_imbalanced,0.5,0.350086086
+25,INSECTS incremental_imbalanced,1,0.397326651
+25,INSECTS incremental-abrupt_imbalanced,0.05,0.260410157
+25,INSECTS incremental-abrupt_imbalanced,0.1,0.252758129
+25,INSECTS incremental-abrupt_imbalanced,0.2,0.263044433
+25,INSECTS incremental-abrupt_imbalanced,0.5,0.348407109
+25,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+25,Keystroke,0.05,0.584090313
+25,Keystroke,0.1,0.573559835
+25,Keystroke,0.2,0.778880126
+25,Keystroke,0.5,0.907437653
+25,Keystroke,1,0.940603409
+25,NOAA,0.05,0.548945108
+25,NOAA,0.1,0.580345824
+25,NOAA,0.2,0.624316743
+25,NOAA,0.5,0.665902411
+25,NOAA,1,0.673206388
+25,Ozone,0.05,0.398038111
+25,Ozone,0.1,0.467949358
+25,Ozone,0.2,0.477480874
+25,Ozone,0.5,0.508258111
+25,Ozone,1,0.474968935
+26,INSECTS incremental_imbalanced,0.05,0.2478178
+26,INSECTS incremental_imbalanced,0.1,0.241953685
+26,INSECTS incremental_imbalanced,0.2,0.263522511
+26,INSECTS incremental_imbalanced,0.5,0.352651828
+26,INSECTS incremental_imbalanced,1,0.397326651
+26,INSECTS incremental-abrupt_imbalanced,0.05,0.251244482
+26,INSECTS incremental-abrupt_imbalanced,0.1,0.259205573
+26,INSECTS incremental-abrupt_imbalanced,0.2,0.269249425
+26,INSECTS incremental-abrupt_imbalanced,0.5,0.345848423
+26,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+26,Keystroke,0.05,0.544408917
+26,Keystroke,0.1,0.658764499
+26,Keystroke,0.2,0.792247096
+26,Keystroke,0.5,0.922168845
+26,Keystroke,1,0.940603409
+26,NOAA,0.05,0.556712584
+26,NOAA,0.1,0.580577297
+26,NOAA,0.2,0.631047518
+26,NOAA,0.5,0.656676709
+26,NOAA,1,0.673206388
+26,Ozone,0.05,0.449611037
+26,Ozone,0.1,0.458679414
+26,Ozone,0.2,0.508693396
+26,Ozone,0.5,0.41858503
+26,Ozone,1,0.474968935
+27,INSECTS incremental_imbalanced,0.05,0.249845314
+27,INSECTS incremental_imbalanced,0.1,0.250901641
+27,INSECTS incremental_imbalanced,0.2,0.270046423
+27,INSECTS incremental_imbalanced,0.5,0.354732426
+27,INSECTS incremental_imbalanced,1,0.397326651
+27,INSECTS incremental-abrupt_imbalanced,0.05,0.259507917
+27,INSECTS incremental-abrupt_imbalanced,0.1,0.260310799
+27,INSECTS incremental-abrupt_imbalanced,0.2,0.268189168
+27,INSECTS incremental-abrupt_imbalanced,0.5,0.344748162
+27,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+27,Keystroke,0.05,0.634129967
+27,Keystroke,0.1,0.656227515
+27,Keystroke,0.2,0.77565567
+27,Keystroke,0.5,0.918664642
+27,Keystroke,1,0.940603409
+27,NOAA,0.05,0.56045673
+27,NOAA,0.1,0.57784602
+27,NOAA,0.2,0.628838051
+27,NOAA,0.5,0.658190814
+27,NOAA,1,0.673206388
+27,Ozone,0.05,0.538612373
+27,Ozone,0.1,0.41464165
+27,Ozone,0.2,0.509149011
+27,Ozone,0.5,0.503853197
+27,Ozone,1,0.474968935
+28,INSECTS incremental_imbalanced,0.05,0.249068598
+28,INSECTS incremental_imbalanced,0.1,0.246523205
+28,INSECTS incremental_imbalanced,0.2,0.283184042
+28,INSECTS incremental_imbalanced,0.5,0.346610523
+28,INSECTS incremental_imbalanced,1,0.397326651
+28,INSECTS incremental-abrupt_imbalanced,0.05,0.260382413
+28,INSECTS incremental-abrupt_imbalanced,0.1,0.262414502
+28,INSECTS incremental-abrupt_imbalanced,0.2,0.277258655
+28,INSECTS incremental-abrupt_imbalanced,0.5,0.343861698
+28,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+28,Keystroke,0.05,0.501925115
+28,Keystroke,0.1,0.650513652
+28,Keystroke,0.2,0.775789055
+28,Keystroke,0.5,0.920961027
+28,Keystroke,1,0.940603409
+28,NOAA,0.05,0.560251818
+28,NOAA,0.1,0.57920396
+28,NOAA,0.2,0.619847654
+28,NOAA,0.5,0.655330656
+28,NOAA,1,0.673206388
+28,Ozone,0.05,0.454738959
+28,Ozone,0.1,0.402959253
+28,Ozone,0.2,0.482020214
+28,Ozone,0.5,0.535226229
+28,Ozone,1,0.474968935
+29,INSECTS incremental_imbalanced,0.05,0.245643867
+29,INSECTS incremental_imbalanced,0.1,0.244807976
+29,INSECTS incremental_imbalanced,0.2,0.256664728
+29,INSECTS incremental_imbalanced,0.5,0.354387933
+29,INSECTS incremental_imbalanced,1,0.397326651
+29,INSECTS incremental-abrupt_imbalanced,0.05,0.248515475
+29,INSECTS incremental-abrupt_imbalanced,0.1,0.246116167
+29,INSECTS incremental-abrupt_imbalanced,0.2,0.279747899
+29,INSECTS incremental-abrupt_imbalanced,0.5,0.347494113
+29,INSECTS incremental-abrupt_imbalanced,1,0.388659324
+29,Keystroke,0.05,0.606541184
+29,Keystroke,0.1,0.674557865
+29,Keystroke,0.2,0.79026182
+29,Keystroke,0.5,0.923776813
+29,Keystroke,1,0.940603409
+29,NOAA,0.05,0.557747241
+29,NOAA,0.1,0.578262012
+29,NOAA,0.2,0.617979114
+29,NOAA,0.5,0.664081793
+29,NOAA,1,0.673206388
+29,Ozone,0.05,0.512630315
+29,Ozone,0.1,0.490164649
+29,Ozone,0.2,0.470722732
+29,Ozone,0.5,0.508926432
+29,Ozone,1,0.474968935
