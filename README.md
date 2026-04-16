@@ -16,7 +16,7 @@ This work studies the impact of class imbalance in online semi-supervised learni
 ## Repository Structure
 
 * **Real Dataset experiments/**
-  Experiments on real-world datasets, including training, multiple runs, and evaluation.
+  Scripts and configurations for experiments on real-world data stream datasets (datasets are not included and are obtained from the USP Data Stream Repository: https://sites.google.com/view/uspdsrepository).
 
 * **Synthetic DataSet experiments/**
   Experiments on synthetic datasets to analyze controlled imbalance scenarios.
